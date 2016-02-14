@@ -1,0 +1,301 @@
+nohup: ignoring input
+2016-02-13 16:25:08,067 INFO: seriation run identifier: urn:uuid:66d0e400-d2b1-11e5-a8e7-086266a2412a
+2016-02-13 16:25:08,068 INFO: IDSS seriation Version 2.3-25-g30b8e22
+Couldn't import dot_parser, loading of dot files will not be possible.
+2016-02-13 16:25:45,771 INFO: Frequency seriation complete at 36.3069839478: - max size: 3  final number of solutions: 4003  unused assemblages: 0
+2016-02-13 16:25:48,152 INFO: Continuity seriation processing complete: 2.38105106354
+2016-02-13 16:25:48,152 INFO: Time elapsed for completion of program: 40.0891020298 seconds
+2016-02-13 16:25:48,966 INFO: seriation run identifier: urn:uuid:7f319800-d2b1-11e5-94d2-086266a2412a
+2016-02-13 16:25:48,967 INFO: IDSS seriation Version 2.3-25-g30b8e22
+Couldn't import dot_parser, loading of dot files will not be possible.
+2016-02-13 16:28:34,833 INFO: Frequency seriation complete at 165.245789051: - max size: 3  final number of solutions: 4026  unused assemblages: 0
+2016-02-13 16:28:37,271 INFO: Continuity seriation processing complete: 2.43810105324
+2016-02-13 16:28:37,271 INFO: Time elapsed for completion of program: 168.309104919 seconds
+2016-02-13 16:28:38,080 INFO: seriation run identifier: urn:uuid:e3fe3d60-d2b1-11e5-8829-086266a2412a
+2016-02-13 16:28:38,080 INFO: IDSS seriation Version 2.3-25-g30b8e22
+Couldn't import dot_parser, loading of dot files will not be possible.
+2016-02-13 16:33:00,922 INFO: Frequency seriation complete at 261.652781963: - max size: 3  final number of solutions: 4034  unused assemblages: 0
+2016-02-13 16:33:03,462 INFO: Continuity seriation processing complete: 2.53974819183
+2016-02-13 16:33:03,463 INFO: Time elapsed for completion of program: 265.387436867 seconds
+2016-02-13 16:33:04,261 INFO: seriation run identifier: urn:uuid:82a64a98-d2b2-11e5-8d4f-086266a2412a
+2016-02-13 16:33:04,261 INFO: IDSS seriation Version 2.3-25-g30b8e22
+Couldn't import dot_parser, loading of dot files will not be possible.
+2016-02-13 16:36:53,643 INFO: Frequency seriation complete at 228.46231699: - max size: 3  final number of solutions: 4050  unused assemblages: 0
+2016-02-13 16:36:56,235 INFO: Continuity seriation processing complete: 2.59151387215
+2016-02-13 16:36:56,236 INFO: Time elapsed for completion of program: 231.978876114 seconds
+2016-02-13 16:36:57,031 INFO: seriation run identifier: urn:uuid:0d643546-d2b3-11e5-bb93-086266a2412a
+2016-02-13 16:36:57,032 INFO: IDSS seriation Version 2.3-25-g30b8e22
+Couldn't import dot_parser, loading of dot files will not be possible.
+2016-02-13 16:37:32,456 INFO: Frequency seriation complete at 34.8297638893: - max size: 31  final number of solutions: 3624  unused assemblages: 0
+2016-02-13 16:37:35,030 INFO: Continuity seriation processing complete: 2.57322788239
+2016-02-13 16:37:35,030 INFO: Time elapsed for completion of program: 38.0033710003 seconds
+2016-02-13 16:37:35,790 INFO: seriation run identifier: urn:uuid:247e47f8-d2b3-11e5-8ada-086266a2412a
+2016-02-13 16:37:35,790 INFO: IDSS seriation Version 2.3-25-g30b8e22
+Couldn't import dot_parser, loading of dot files will not be possible.
+2016-02-13 16:41:54,400 INFO: Frequency seriation complete at 257.562513113: - max size: 3  final number of solutions: 4047  unused assemblages: 0
+2016-02-13 16:41:56,919 INFO: Continuity seriation processing complete: 2.51834201813
+2016-02-13 16:41:56,919 INFO: Time elapsed for completion of program: 261.132831097 seconds
+2016-02-13 16:41:57,691 INFO: seriation run identifier: urn:uuid:c09946c4-d2b3-11e5-815a-086266a2412a
+2016-02-13 16:41:57,692 INFO: IDSS seriation Version 2.3-25-g30b8e22
+Couldn't import dot_parser, loading of dot files will not be possible.
+2016-02-13 16:45:18,432 INFO: Frequency seriation complete at 199.916676044: - max size: 3  final number of solutions: 4046  unused assemblages: 0
+2016-02-13 16:45:20,872 INFO: Continuity seriation processing complete: 2.43904304504
+2016-02-13 16:45:20,872 INFO: Time elapsed for completion of program: 203.184850216 seconds
+2016-02-13 16:45:21,679 INFO: seriation run identifier: urn:uuid:3a2f555a-d2b4-11e5-887f-086266a2412a
+2016-02-13 16:45:21,679 INFO: IDSS seriation Version 2.3-25-g30b8e22
+Couldn't import dot_parser, loading of dot files will not be possible.
+2016-02-13 16:50:02,351 INFO: Frequency seriation complete at 279.570888996: - max size: 3  final number of solutions: 4051  unused assemblages: 0
+2016-02-13 16:50:04,985 INFO: Continuity seriation processing complete: 2.63411593437
+2016-02-13 16:50:04,986 INFO: Time elapsed for completion of program: 283.311220884 seconds
+2016-02-13 16:50:05,806 INFO: seriation run identifier: urn:uuid:e3899fb6-d2b4-11e5-915e-086266a2412a
+2016-02-13 16:50:05,806 INFO: IDSS seriation Version 2.3-25-g30b8e22
+Couldn't import dot_parser, loading of dot files will not be possible.
+2016-02-13 16:53:20,454 INFO: Frequency seriation complete at 193.859004021: - max size: 3  final number of solutions: 4038  unused assemblages: 0
+2016-02-13 16:53:22,599 INFO: Continuity seriation processing complete: 2.14449810982
+2016-02-13 16:53:22,599 INFO: Time elapsed for completion of program: 196.798310995 seconds
+2016-02-13 16:53:23,367 INFO: seriation run identifier: urn:uuid:594b038e-d2b5-11e5-a01b-086266a2412a
+2016-02-13 16:53:23,367 INFO: IDSS seriation Version 2.3-25-g30b8e22
+Couldn't import dot_parser, loading of dot files will not be possible.
+2016-02-13 16:57:12,401 INFO: Frequency seriation complete at 227.940444946: - max size: 3  final number of solutions: 4042  unused assemblages: 0
+2016-02-13 16:57:14,848 INFO: Continuity seriation processing complete: 2.44637489319
+2016-02-13 16:57:14,848 INFO: Time elapsed for completion of program: 231.486270905 seconds
+2016-02-13 16:57:15,629 INFO: seriation run identifier: urn:uuid:e3bb727e-d2b5-11e5-96b2-086266a2412a
+2016-02-13 16:57:15,629 INFO: IDSS seriation Version 2.3-25-g30b8e22
+Couldn't import dot_parser, loading of dot files will not be possible.
+2016-02-13 17:00:06,266 INFO: Frequency seriation complete at 169.957789183: - max size: 3  final number of solutions: 4005  unused assemblages: 0
+2016-02-13 17:00:08,754 INFO: Continuity seriation processing complete: 2.48825407028
+2016-02-13 17:00:08,754 INFO: Time elapsed for completion of program: 173.12991786 seconds
+2016-02-13 17:00:09,509 INFO: seriation run identifier: urn:uuid:4b5f7736-d2b6-11e5-812d-086266a2412a
+2016-02-13 17:00:09,510 INFO: IDSS seriation Version 2.3-25-g30b8e22
+Couldn't import dot_parser, loading of dot files will not be possible.
+2016-02-13 17:00:48,915 INFO: Frequency seriation complete at 38.5647110939: - max size: 9  final number of solutions: 3967  unused assemblages: 0
+2016-02-13 17:00:51,489 INFO: Continuity seriation processing complete: 2.57419991493
+2016-02-13 17:00:51,489 INFO: Time elapsed for completion of program: 41.9837770462 seconds
+2016-02-13 17:00:52,272 INFO: seriation run identifier: urn:uuid:64dc9496-d2b6-11e5-ac9b-086266a2412a
+2016-02-13 17:00:52,273 INFO: IDSS seriation Version 2.3-25-g30b8e22
+Couldn't import dot_parser, loading of dot files will not be possible.
+2016-02-13 17:04:18,026 INFO: Frequency seriation complete at 204.805750132: - max size: 3  final number of solutions: 4011  unused assemblages: 0
+2016-02-13 17:04:20,407 INFO: Continuity seriation processing complete: 2.3812789917
+2016-02-13 17:04:20,408 INFO: Time elapsed for completion of program: 208.13983202 seconds
+2016-02-13 17:04:21,233 INFO: seriation run identifier: urn:uuid:e1697d4e-d2b6-11e5-a0f4-086266a2412a
+2016-02-13 17:04:21,233 INFO: IDSS seriation Version 2.3-25-g30b8e22
+Couldn't import dot_parser, loading of dot files will not be possible.
+2016-02-13 17:04:54,909 INFO: Frequency seriation complete at 32.9837348461: - max size: 63  final number of solutions: 3602  unused assemblages: 0
+2016-02-13 17:04:57,398 INFO: Continuity seriation processing complete: 2.48804616928
+2016-02-13 17:04:57,398 INFO: Time elapsed for completion of program: 36.1693630219 seconds
+2016-02-13 17:04:58,194 INFO: seriation run identifier: urn:uuid:f771489c-d2b6-11e5-959b-086266a2412a
+2016-02-13 17:04:58,194 INFO: IDSS seriation Version 2.3-25-g30b8e22
+Couldn't import dot_parser, loading of dot files will not be possible.
+2016-02-13 17:08:36,349 INFO: Frequency seriation complete at 217.273894072: - max size: 3  final number of solutions: 4051  unused assemblages: 0
+2016-02-13 17:08:38,502 INFO: Continuity seriation processing complete: 2.15324902534
+2016-02-13 17:08:38,502 INFO: Time elapsed for completion of program: 220.31282711 seconds
+2016-02-13 17:08:39,269 INFO: seriation run identifier: urn:uuid:7b369b32-d2b7-11e5-8448-086266a2412a
+2016-02-13 17:08:39,269 INFO: IDSS seriation Version 2.3-25-g30b8e22
+Couldn't import dot_parser, loading of dot files will not be possible.
+2016-02-13 17:12:53,057 INFO: Frequency seriation complete at 252.733765125: - max size: 3  final number of solutions: 4019  unused assemblages: 0
+2016-02-13 17:12:55,608 INFO: Continuity seriation processing complete: 2.55070304871
+2016-02-13 17:12:55,608 INFO: Time elapsed for completion of program: 256.343894005 seconds
+2016-02-13 17:12:56,390 INFO: seriation run identifier: urn:uuid:147829d2-d2b8-11e5-8a3f-086266a2412a
+2016-02-13 17:12:56,390 INFO: IDSS seriation Version 2.3-25-g30b8e22
+Couldn't import dot_parser, loading of dot files will not be possible.
+2016-02-13 17:17:46,503 INFO: Frequency seriation complete at 288.951087952: - max size: 3  final number of solutions: 4053  unused assemblages: 0
+2016-02-13 17:17:49,147 INFO: Continuity seriation processing complete: 2.64359402657
+2016-02-13 17:17:49,147 INFO: Time elapsed for completion of program: 292.761482 seconds
+2016-02-13 17:17:49,937 INFO: seriation run identifier: urn:uuid:c36fe7e0-d2b8-11e5-94ba-086266a2412a
+2016-02-13 17:17:49,938 INFO: IDSS seriation Version 2.3-25-g30b8e22
+Couldn't import dot_parser, loading of dot files will not be possible.
+2016-02-13 17:22:12,217 INFO: Frequency seriation complete at 261.052179098: - max size: 3  final number of solutions: 4043  unused assemblages: 0
+2016-02-13 17:22:14,831 INFO: Continuity seriation processing complete: 2.61299109459
+2016-02-13 17:22:14,831 INFO: Time elapsed for completion of program: 264.89863801 seconds
+2016-02-13 17:22:15,612 INFO: seriation run identifier: urn:uuid:61caa16e-d2b9-11e5-aba3-086266a2412a
+2016-02-13 17:22:15,612 INFO: IDSS seriation Version 2.3-25-g30b8e22
+2016-02-13 17:22:16,112 INFO: Potential problem:  assemblage-340-683 and assemblage-344-184 are identical in their frequencies. 
+2016-02-13 17:22:16,113 INFO: Potential problem:  assemblage-344-184 and assemblage-340-683 are identical in their frequencies. 
+Couldn't import dot_parser, loading of dot files will not be possible.
+jobs/seriationjob-gc-simple-lineage-split-1-8009c4d6-8e8d-4373-a17b-3d0ece3380cd.sh: line 21: 27097 Terminated              idss-seriation-mongodb.py --debug 0 --graphs 0 --spatialbootstrapN 100 --spatialsignificance=1 --database gc-simple-lineage-split-1_samples_raw --continuity 1 --frequency 1 --bootstrapCI=1 --bootstrapSignificance=0.95 --inputfile slice-stratified-filtered-lineage-data/5df5e6b6-cf76-11e5-9342-086266a2412a-0-sampled-500-slicestratified-0.12-resample-0-0.1-unimodal-filtered.txt --outputdirectory /home/mark/experiments//graphclassification-2/seriations-lineage-filtered/5df5e6b6-cf76-11e5-9342-086266a2412a-0-sampled-500-slicestratified-0.12-resample-0-0.1-unimodal-filtered --xyfile xyfiles/gc-simple-lineage-split-1XY.txt
+2016-02-14 07:53:02,003 INFO: seriation run identifier: urn:uuid:07114424-d333-11e5-bc5b-086266a2412a
+2016-02-14 07:53:02,004 INFO: IDSS seriation Version 2.3-25-g30b8e22
+Couldn't import dot_parser, loading of dot files will not be possible.
+2016-02-14 07:56:34,161 INFO: Frequency seriation complete at 210.967541933: - max size: 3  final number of solutions: 4014  unused assemblages: 0
+2016-02-14 07:56:36,549 INFO: Continuity seriation processing complete: 2.38744401932
+2016-02-14 07:56:36,549 INFO: Time elapsed for completion of program: 214.559604168 seconds
+2016-02-14 07:56:37,443 INFO: seriation run identifier: urn:uuid:877ae05c-d333-11e5-a6b3-086266a2412a
+2016-02-14 07:56:37,444 INFO: IDSS seriation Version 2.3-25-g30b8e22
+Couldn't import dot_parser, loading of dot files will not be possible.
+2016-02-14 08:00:26,972 INFO: Frequency seriation complete at 228.4390378: - max size: 3  final number of solutions: 4057  unused assemblages: 0
+2016-02-14 08:00:29,319 INFO: Continuity seriation processing complete: 2.34672617912
+2016-02-14 08:00:29,319 INFO: Time elapsed for completion of program: 231.88005805 seconds
+2016-02-14 08:00:30,121 INFO: seriation run identifier: urn:uuid:122aa4e4-d334-11e5-8d1d-086266a2412a
+2016-02-14 08:00:30,121 INFO: IDSS seriation Version 2.3-25-g30b8e22
+Couldn't import dot_parser, loading of dot files will not be possible.
+2016-02-14 08:04:13,338 INFO: Frequency seriation complete at 222.099482059: - max size: 3  final number of solutions: 4028  unused assemblages: 0
+2016-02-14 08:04:15,401 INFO: Continuity seriation processing complete: 2.06290197372
+2016-02-14 08:04:15,401 INFO: Time elapsed for completion of program: 225.284741163 seconds
+2016-02-14 08:04:16,185 INFO: seriation run identifier: urn:uuid:98e9410c-d334-11e5-9e88-086266a2412a
+2016-02-14 08:04:16,185 INFO: IDSS seriation Version 2.3-25-g30b8e22
+Couldn't import dot_parser, loading of dot files will not be possible.
+2016-02-14 08:07:49,837 INFO: Frequency seriation complete at 212.576225996: - max size: 3  final number of solutions: 4038  unused assemblages: 0
+2016-02-14 08:07:52,218 INFO: Continuity seriation processing complete: 2.38057613373
+2016-02-14 08:07:52,218 INFO: Time elapsed for completion of program: 216.038131952 seconds
+2016-02-14 08:07:53,038 INFO: seriation run identifier: urn:uuid:1a2a7632-d335-11e5-946a-086266a2412a
+2016-02-14 08:07:53,038 INFO: IDSS seriation Version 2.3-25-g30b8e22
+Couldn't import dot_parser, loading of dot files will not be possible.
+2016-02-14 08:08:30,039 INFO: Frequency seriation complete at 36.3516068459: - max size: 6  final number of solutions: 3987  unused assemblages: 0
+2016-02-14 08:08:32,285 INFO: Continuity seriation processing complete: 2.245855093
+2016-02-14 08:08:32,285 INFO: Time elapsed for completion of program: 39.2519960403 seconds
+2016-02-14 08:08:33,062 INFO: seriation run identifier: urn:uuid:32058eae-d335-11e5-a4c0-086266a2412a
+2016-02-14 08:08:33,062 INFO: IDSS seriation Version 2.3-25-g30b8e22
+Couldn't import dot_parser, loading of dot files will not be possible.
+2016-02-14 08:09:08,827 INFO: Frequency seriation complete at 34.9571402073: - max size: 3  final number of solutions: 3916  unused assemblages: 0
+2016-02-14 08:09:11,157 INFO: Continuity seriation processing complete: 2.32900881767
+2016-02-14 08:09:11,157 INFO: Time elapsed for completion of program: 38.0990409851 seconds
+2016-02-14 08:09:11,967 INFO: seriation run identifier: urn:uuid:4935f974-d335-11e5-b613-086266a2412a
+2016-02-14 08:09:11,967 INFO: IDSS seriation Version 2.3-25-g30b8e22
+Couldn't import dot_parser, loading of dot files will not be possible.
+2016-02-14 08:12:10,218 INFO: Frequency seriation complete at 177.533926964: - max size: 3  final number of solutions: 4018  unused assemblages: 0
+2016-02-14 08:12:12,517 INFO: Continuity seriation processing complete: 2.29893708229
+2016-02-14 08:12:12,517 INFO: Time elapsed for completion of program: 180.554960966 seconds
+2016-02-14 08:12:13,295 INFO: seriation run identifier: urn:uuid:b54a7fb8-d335-11e5-a154-086266a2412a
+2016-02-14 08:12:13,295 INFO: IDSS seriation Version 2.3-25-g30b8e22
+Couldn't import dot_parser, loading of dot files will not be possible.
+2016-02-14 08:12:48,951 INFO: Frequency seriation complete at 35.1290590763: - max size: 15  final number of solutions: 3931  unused assemblages: 0
+2016-02-14 08:12:51,249 INFO: Continuity seriation processing complete: 2.29748511314
+2016-02-14 08:12:51,249 INFO: Time elapsed for completion of program: 37.9586930275 seconds
+2016-02-14 08:12:52,069 INFO: seriation run identifier: urn:uuid:cc66f14a-d335-11e5-8866-086266a2412a
+2016-02-14 08:12:52,069 INFO: IDSS seriation Version 2.3-25-g30b8e22
+Couldn't import dot_parser, loading of dot files will not be possible.
+2016-02-14 08:15:45,910 INFO: Frequency seriation complete at 173.026015997: - max size: 3  final number of solutions: 3992  unused assemblages: 0
+2016-02-14 08:15:48,229 INFO: Continuity seriation processing complete: 2.31803107262
+2016-02-14 08:15:48,229 INFO: Time elapsed for completion of program: 176.164505959 seconds
+2016-02-14 08:15:49,026 INFO: seriation run identifier: urn:uuid:35e06944-d336-11e5-9711-086266a2412a
+2016-02-14 08:15:49,026 INFO: IDSS seriation Version 2.3-25-g30b8e22
+Couldn't import dot_parser, loading of dot files will not be possible.
+2016-02-14 08:19:47,110 INFO: Frequency seriation complete at 237.205252171: - max size: 3  final number of solutions: 4026  unused assemblages: 0
+2016-02-14 08:19:49,449 INFO: Continuity seriation processing complete: 2.33846902847
+2016-02-14 08:19:49,449 INFO: Time elapsed for completion of program: 240.427386045 seconds
+2016-02-14 08:19:50,243 INFO: seriation run identifier: urn:uuid:c5a72fc2-d336-11e5-b65c-086266a2412a
+2016-02-14 08:19:50,243 INFO: IDSS seriation Version 2.3-25-g30b8e22
+Couldn't import dot_parser, loading of dot files will not be possible.
+2016-02-14 08:23:34,756 INFO: Frequency seriation complete at 223.594355106: - max size: 3  final number of solutions: 4049  unused assemblages: 0
+2016-02-14 08:23:37,022 INFO: Continuity seriation processing complete: 2.26518893242
+2016-02-14 08:23:37,022 INFO: Time elapsed for completion of program: 226.783739805 seconds
+2016-02-14 08:23:37,806 INFO: seriation run identifier: urn:uuid:4d4aa99a-d337-11e5-ae84-086266a2412a
+2016-02-14 08:23:37,807 INFO: IDSS seriation Version 2.3-25-g30b8e22
+Couldn't import dot_parser, loading of dot files will not be possible.
+2016-02-14 08:27:50,483 INFO: Frequency seriation complete at 251.637603045: - max size: 3  final number of solutions: 4046  unused assemblages: 0
+2016-02-14 08:27:52,570 INFO: Continuity seriation processing complete: 2.08650684357
+2016-02-14 08:27:52,570 INFO: Time elapsed for completion of program: 254.767902136 seconds
+2016-02-14 08:27:53,353 INFO: seriation run identifier: urn:uuid:e59bf5fa-d337-11e5-80e3-086266a2412a
+2016-02-14 08:27:53,353 INFO: IDSS seriation Version 2.3-25-g30b8e22
+Couldn't import dot_parser, loading of dot files will not be possible.
+2016-02-14 08:28:29,795 INFO: Frequency seriation complete at 35.6019451618: - max size: 3  final number of solutions: 3965  unused assemblages: 0
+2016-02-14 08:28:32,141 INFO: Continuity seriation processing complete: 2.34506583214
+2016-02-14 08:28:32,141 INFO: Time elapsed for completion of program: 38.7920520306 seconds
+2016-02-14 08:28:32,956 INFO: seriation run identifier: urn:uuid:fd36d72a-d337-11e5-b03b-086266a2412a
+2016-02-14 08:28:32,956 INFO: IDSS seriation Version 2.3-25-g30b8e22
+Couldn't import dot_parser, loading of dot files will not be possible.
+2016-02-14 08:32:10,261 INFO: Frequency seriation complete at 216.329062939: - max size: 3  final number of solutions: 4035  unused assemblages: 0
+2016-02-14 08:32:12,264 INFO: Continuity seriation processing complete: 2.00290203094
+2016-02-14 08:32:12,264 INFO: Time elapsed for completion of program: 219.313348055 seconds
+2016-02-14 08:32:13,057 INFO: seriation run identifier: urn:uuid:8067b72c-d338-11e5-ae53-086266a2412a
+2016-02-14 08:32:13,058 INFO: IDSS seriation Version 2.3-25-g30b8e22
+Couldn't import dot_parser, loading of dot files will not be possible.
+2016-02-14 08:35:28,353 INFO: Frequency seriation complete at 194.330716133: - max size: 3  final number of solutions: 4034  unused assemblages: 0
+2016-02-14 08:35:30,573 INFO: Continuity seriation processing complete: 2.21974396706
+2016-02-14 08:35:30,573 INFO: Time elapsed for completion of program: 197.520437956 seconds
+2016-02-14 08:35:31,383 INFO: seriation run identifier: urn:uuid:f69dc30a-d338-11e5-a48b-086266a2412a
+2016-02-14 08:35:31,383 INFO: IDSS seriation Version 2.3-25-g30b8e22
+Couldn't import dot_parser, loading of dot files will not be possible.
+2016-02-14 08:36:09,404 INFO: Frequency seriation complete at 37.0953090191: - max size: 3  final number of solutions: 3992  unused assemblages: 0
+2016-02-14 08:36:11,723 INFO: Continuity seriation processing complete: 2.31925678253
+2016-02-14 08:36:11,724 INFO: Time elapsed for completion of program: 40.3452608585 seconds
+2016-02-14 08:36:12,540 INFO: seriation run identifier: urn:uuid:0f25d728-d339-11e5-adec-086266a2412a
+2016-02-14 08:36:12,540 INFO: IDSS seriation Version 2.3-25-g30b8e22
+Couldn't import dot_parser, loading of dot files will not be possible.
+2016-02-14 08:36:49,568 INFO: Frequency seriation complete at 36.4623110294: - max size: 5  final number of solutions: 3962  unused assemblages: 0
+2016-02-14 08:36:51,807 INFO: Continuity seriation processing complete: 2.23877692223
+2016-02-14 08:36:51,807 INFO: Time elapsed for completion of program: 39.2718031406 seconds
+2016-02-14 08:36:52,622 INFO: seriation run identifier: urn:uuid:2709ec76-d339-11e5-b277-086266a2412a
+2016-02-14 08:36:52,623 INFO: IDSS seriation Version 2.3-25-g30b8e22
+Couldn't import dot_parser, loading of dot files will not be possible.
+2016-02-14 08:40:57,761 INFO: Frequency seriation complete at 244.007066965: - max size: 3  final number of solutions: 4057  unused assemblages: 0
+2016-02-14 08:41:00,108 INFO: Continuity seriation processing complete: 2.34641480446
+2016-02-14 08:41:00,108 INFO: Time elapsed for completion of program: 247.490124941 seconds
+2016-02-14 08:41:00,903 INFO: seriation run identifier: urn:uuid:bb068b32-d339-11e5-9dd8-086266a2412a
+2016-02-14 08:41:00,903 INFO: IDSS seriation Version 2.3-25-g30b8e22
+Couldn't import dot_parser, loading of dot files will not be possible.
+2016-02-14 08:44:34,053 INFO: Frequency seriation complete at 212.094661951: - max size: 3  final number of solutions: 4053  unused assemblages: 0
+2016-02-14 08:44:36,224 INFO: Continuity seriation processing complete: 2.17003512383
+2016-02-14 08:44:36,224 INFO: Time elapsed for completion of program: 215.327648878 seconds
+2016-02-14 08:44:37,007 INFO: seriation run identifier: urn:uuid:3bd56a58-d33a-11e5-9def-086266a2412a
+2016-02-14 08:44:37,007 INFO: IDSS seriation Version 2.3-25-g30b8e22
+Couldn't import dot_parser, loading of dot files will not be possible.
+2016-02-14 08:45:13,155 INFO: Frequency seriation complete at 35.4106860161: - max size: 3  final number of solutions: 3973  unused assemblages: 0
+2016-02-14 08:45:15,432 INFO: Continuity seriation processing complete: 2.27730607986
+2016-02-14 08:45:15,433 INFO: Time elapsed for completion of program: 38.4299759865 seconds
+2016-02-14 08:45:16,251 INFO: seriation run identifier: urn:uuid:533994a8-d33a-11e5-8e35-086266a2412a
+2016-02-14 08:45:16,251 INFO: IDSS seriation Version 2.3-25-g30b8e22
+Couldn't import dot_parser, loading of dot files will not be possible.
+2016-02-14 08:50:17,576 INFO: Frequency seriation complete at 300.1349051: - max size: 3  final number of solutions: 4042  unused assemblages: 0
+2016-02-14 08:50:20,014 INFO: Continuity seriation processing complete: 2.43759894371
+2016-02-14 08:50:20,014 INFO: Time elapsed for completion of program: 303.768065929 seconds
+2016-02-14 08:50:20,813 INFO: seriation run identifier: urn:uuid:08c21d9a-d33b-11e5-aacd-086266a2412a
+2016-02-14 08:50:20,814 INFO: IDSS seriation Version 2.3-25-g30b8e22
+Couldn't import dot_parser, loading of dot files will not be possible.
+2016-02-14 08:53:50,004 INFO: Frequency seriation complete at 208.157932043: - max size: 3  final number of solutions: 4049  unused assemblages: 0
+2016-02-14 08:53:52,328 INFO: Continuity seriation processing complete: 2.32406902313
+2016-02-14 08:53:52,328 INFO: Time elapsed for completion of program: 211.519746065 seconds
+2016-02-14 08:53:52,992 INFO: seriation run identifier: urn:uuid:8739fd6e-d33b-11e5-b659-086266a2412a
+2016-02-14 08:53:52,992 INFO: IDSS seriation Version 2.3-25-g30b8e22
+Couldn't import dot_parser, loading of dot files will not be possible.
+2016-02-14 08:58:49,493 INFO: Frequency seriation complete at 295.31820178: - max size: 3  final number of solutions: 4057  unused assemblages: 0
+2016-02-14 08:58:51,818 INFO: Continuity seriation processing complete: 2.32546210289
+2016-02-14 08:58:51,819 INFO: Time elapsed for completion of program: 298.830290079 seconds
+2016-02-14 08:58:52,623 INFO: seriation run identifier: urn:uuid:39d200d4-d33c-11e5-a2dc-086266a2412a
+2016-02-14 08:58:52,623 INFO: IDSS seriation Version 2.3-25-g30b8e22
+Couldn't import dot_parser, loading of dot files will not be possible.
+2016-02-14 08:59:29,163 INFO: Frequency seriation complete at 35.7806999683: - max size: 3  final number of solutions: 4007  unused assemblages: 0
+2016-02-14 08:59:31,439 INFO: Continuity seriation processing complete: 2.27611899376
+2016-02-14 08:59:31,440 INFO: Time elapsed for completion of program: 38.8212461472 seconds
+2016-02-14 08:59:32,252 INFO: seriation run identifier: urn:uuid:51710794-d33c-11e5-9cfd-086266a2412a
+2016-02-14 08:59:32,253 INFO: IDSS seriation Version 2.3-25-g30b8e22
+Couldn't import dot_parser, loading of dot files will not be possible.
+2016-02-14 09:04:08,765 INFO: Frequency seriation complete at 275.401381016: - max size: 3  final number of solutions: 4027  unused assemblages: 0
+2016-02-14 09:04:11,109 INFO: Continuity seriation processing complete: 2.34408593178
+2016-02-14 09:04:11,110 INFO: Time elapsed for completion of program: 278.86153388 seconds
+2016-02-14 09:04:11,913 INFO: seriation run identifier: urn:uuid:f821d76c-d33c-11e5-ab24-086266a2412a
+2016-02-14 09:04:11,913 INFO: IDSS seriation Version 2.3-25-g30b8e22
+Couldn't import dot_parser, loading of dot files will not be possible.
+2016-02-14 09:07:26,624 INFO: Frequency seriation complete at 193.946541071: - max size: 3  final number of solutions: 4035  unused assemblages: 0
+2016-02-14 09:07:28,772 INFO: Continuity seriation processing complete: 2.14798307419
+2016-02-14 09:07:28,772 INFO: Time elapsed for completion of program: 196.864216089 seconds
+2016-02-14 09:07:29,576 INFO: seriation run identifier: urn:uuid:6df2c212-d33d-11e5-8605-086266a2412a
+2016-02-14 09:07:29,576 INFO: IDSS seriation Version 2.3-25-g30b8e22
+Couldn't import dot_parser, loading of dot files will not be possible.
+2016-02-14 09:11:07,862 INFO: Frequency seriation complete at 217.221179962: - max size: 3  final number of solutions: 4029  unused assemblages: 0
+2016-02-14 09:11:10,232 INFO: Continuity seriation processing complete: 2.36951804161
+2016-02-14 09:11:10,232 INFO: Time elapsed for completion of program: 220.661122084 seconds
+2016-02-14 09:11:11,051 INFO: seriation run identifier: urn:uuid:f1f5390a-d33d-11e5-8347-086266a2412a
+2016-02-14 09:11:11,051 INFO: IDSS seriation Version 2.3-25-g30b8e22
+Couldn't import dot_parser, loading of dot files will not be possible.
+2016-02-14 09:15:05,359 INFO: Frequency seriation complete at 233.225621939: - max size: 3  final number of solutions: 4042  unused assemblages: 0
+2016-02-14 09:15:07,725 INFO: Continuity seriation processing complete: 2.366065979
+2016-02-14 09:15:07,726 INFO: Time elapsed for completion of program: 236.678957939 seconds
+2016-02-14 09:15:08,529 INFO: seriation run identifier: urn:uuid:7f819200-d33e-11e5-83cc-086266a2412a
+2016-02-14 09:15:08,530 INFO: IDSS seriation Version 2.3-25-g30b8e22
+Couldn't import dot_parser, loading of dot files will not be possible.
+2016-02-14 09:18:02,246 INFO: Frequency seriation complete at 173.023904085: - max size: 3  final number of solutions: 3963  unused assemblages: 0
+2016-02-14 09:18:04,510 INFO: Continuity seriation processing complete: 2.26413106918
+2016-02-14 09:18:04,510 INFO: Time elapsed for completion of program: 175.985383034 seconds
+2016-02-14 09:18:05,326 INFO: seriation run identifier: urn:uuid:e8e29f64-d33e-11e5-a7b2-086266a2412a
+2016-02-14 09:18:05,327 INFO: IDSS seriation Version 2.3-25-g30b8e22
+Couldn't import dot_parser, loading of dot files will not be possible.
+2016-02-14 09:21:39,025 INFO: Frequency seriation complete at 212.841464996: - max size: 3  final number of solutions: 4047  unused assemblages: 0
+2016-02-14 09:21:41,007 INFO: Continuity seriation processing complete: 1.98204898834
+2016-02-14 09:21:41,008 INFO: Time elapsed for completion of program: 215.685682058 seconds
+2016-02-14 09:21:41,799 INFO: seriation run identifier: urn:uuid:69e9cde4-d33f-11e5-a79f-086266a2412a
+2016-02-14 09:21:41,800 INFO: IDSS seriation Version 2.3-25-g30b8e22
+Couldn't import dot_parser, loading of dot files will not be possible.
+2016-02-14 09:25:58,199 INFO: Frequency seriation complete at 255.226201057: - max size: 3  final number of solutions: 4043  unused assemblages: 0
+2016-02-14 09:26:00,533 INFO: Continuity seriation processing complete: 2.33393216133
+2016-02-14 09:26:00,533 INFO: Time elapsed for completion of program: 258.738163948 seconds
