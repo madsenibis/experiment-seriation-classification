@@ -1,0 +1,11 @@
+Assemblage_Name	2-2-4	0-2-4	1-7284259-3	9759842-1-0	2-3157669-4
+assemblage-598-655	308	27	74	63	10
+assemblage-352-266	175	133	28	145	11
+assemblage-679-391	448	0	0	0	6
+assemblage-646-853	365	0	33	0	2
+assemblage-246-246	0	147	0	0	9
+assemblage-165-927	443	0	0	0	10
+assemblage-774-471	333	0	21	72	7
+assemblage-235-847	107	44	191	28	7
+assemblage-1000-339	469	0	17	0	10
+assemblage-599-228	443	0	56	0	1

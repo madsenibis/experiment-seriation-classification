@@ -1,0 +1,608 @@
+=================== exporting early split model ==============
+2016-02-16 08:04:07,531 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-split-2
+export urn:uuid:603a9a6c-d448-11e5-adc1-086266a2412a
+2016-02-16 08:04:07,818 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-split-2  SimulationID: urn:uuid:603a9a6c-d448-11e5-adc1-086266a2412a
+2016-02-16 08:04:24,482 INFO: total number of classes: 4677
+export urn:uuid:38ab1bec-d449-11e5-81cb-086266a2412a
+2016-02-16 08:04:31,794 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-split-2  SimulationID: urn:uuid:38ab1bec-d449-11e5-81cb-086266a2412a
+2016-02-16 08:04:45,237 INFO: total number of classes: 7229
+export urn:uuid:0d6dbede-d44a-11e5-beca-086266a2412a
+2016-02-16 08:04:58,935 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-split-2  SimulationID: urn:uuid:0d6dbede-d44a-11e5-beca-086266a2412a
+2016-02-16 08:05:11,732 INFO: total number of classes: 4969
+export urn:uuid:e1387560-d44a-11e5-bbe6-086266a2412a
+2016-02-16 08:05:19,636 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-split-2  SimulationID: urn:uuid:e1387560-d44a-11e5-bbe6-086266a2412a
+2016-02-16 08:05:32,248 INFO: total number of classes: 2984
+export urn:uuid:b7236658-d44b-11e5-bd6b-086266a2412a
+2016-02-16 08:05:36,331 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-split-2  SimulationID: urn:uuid:b7236658-d44b-11e5-bd6b-086266a2412a
+2016-02-16 08:05:49,628 INFO: total number of classes: 8461
+export urn:uuid:90f141fc-d44c-11e5-9e4f-086266a2412a
+2016-02-16 08:06:06,653 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-split-2  SimulationID: urn:uuid:90f141fc-d44c-11e5-9e4f-086266a2412a
+2016-02-16 08:06:22,245 INFO: total number of classes: 6529
+export urn:uuid:63317970-d44d-11e5-86ea-086266a2412a
+2016-02-16 08:06:33,849 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-split-2  SimulationID: urn:uuid:63317970-d44d-11e5-86ea-086266a2412a
+2016-02-16 08:06:47,763 INFO: total number of classes: 5482
+export urn:uuid:4012d938-d44e-11e5-8528-086266a2412a
+2016-02-16 08:06:56,720 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-split-2  SimulationID: urn:uuid:4012d938-d44e-11e5-8528-086266a2412a
+2016-02-16 08:07:08,672 INFO: total number of classes: 980
+export urn:uuid:10d98616-d44f-11e5-9ed3-086266a2412a
+2016-02-16 08:07:09,787 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-split-2  SimulationID: urn:uuid:10d98616-d44f-11e5-9ed3-086266a2412a
+2016-02-16 08:07:24,531 INFO: total number of classes: 2936
+export urn:uuid:e2cda9c2-d44f-11e5-b658-086266a2412a
+2016-02-16 08:07:28,830 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-split-2  SimulationID: urn:uuid:e2cda9c2-d44f-11e5-b658-086266a2412a
+2016-02-16 08:07:42,390 INFO: total number of classes: 8423
+export urn:uuid:b5b22ffc-d450-11e5-a459-086266a2412a
+2016-02-16 08:07:59,621 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-split-2  SimulationID: urn:uuid:b5b22ffc-d450-11e5-a459-086266a2412a
+2016-02-16 08:08:13,262 INFO: total number of classes: 8363
+export urn:uuid:a7f306c4-d451-11e5-ab76-086266a2412a
+2016-02-16 08:08:29,902 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-split-2  SimulationID: urn:uuid:a7f306c4-d451-11e5-ab76-086266a2412a
+2016-02-16 08:08:44,751 INFO: total number of classes: 2534
+export urn:uuid:7a08d170-d452-11e5-9c4c-086266a2412a
+2016-02-16 08:08:48,276 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-split-2  SimulationID: urn:uuid:7a08d170-d452-11e5-9c4c-086266a2412a
+2016-02-16 08:09:01,929 INFO: total number of classes: 7465
+export urn:uuid:4d52aa2e-d453-11e5-9c43-086266a2412a
+2016-02-16 08:09:16,414 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-split-2  SimulationID: urn:uuid:4d52aa2e-d453-11e5-9c43-086266a2412a
+2016-02-16 08:09:32,300 INFO: total number of classes: 7324
+export urn:uuid:219b95fc-d454-11e5-933c-086266a2412a
+2016-02-16 08:09:46,299 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-split-2  SimulationID: urn:uuid:219b95fc-d454-11e5-933c-086266a2412a
+2016-02-16 08:09:58,706 INFO: total number of classes: 941
+export urn:uuid:f23fe1ea-d454-11e5-8e88-086266a2412a
+2016-02-16 08:09:59,847 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-split-2  SimulationID: urn:uuid:f23fe1ea-d454-11e5-8e88-086266a2412a
+2016-02-16 08:10:14,558 INFO: total number of classes: 7977
+export urn:uuid:d0e374de-d455-11e5-b60f-086266a2412a
+2016-02-16 08:10:30,354 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-split-2  SimulationID: urn:uuid:d0e374de-d455-11e5-b60f-086266a2412a
+2016-02-16 08:10:45,151 INFO: total number of classes: 1778
+export urn:uuid:a2cbd82e-d456-11e5-8adc-086266a2412a
+2016-02-16 08:10:47,386 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-split-2  SimulationID: urn:uuid:a2cbd82e-d456-11e5-8adc-086266a2412a
+2016-02-16 08:11:01,104 INFO: total number of classes: 6409
+export urn:uuid:769a8a24-d457-11e5-aa98-086266a2412a
+2016-02-16 08:11:12,519 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-split-2  SimulationID: urn:uuid:769a8a24-d457-11e5-aa98-086266a2412a
+2016-02-16 08:11:27,664 INFO: total number of classes: 2920
+export urn:uuid:495be6ba-d458-11e5-8091-086266a2412a
+2016-02-16 08:11:31,625 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-split-2  SimulationID: urn:uuid:495be6ba-d458-11e5-8091-086266a2412a
+2016-02-16 08:11:45,379 INFO: total number of classes: 7731
+export urn:uuid:21271b5a-d459-11e5-ac28-086266a2412a
+2016-02-16 08:12:00,466 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-split-2  SimulationID: urn:uuid:21271b5a-d459-11e5-ac28-086266a2412a
+2016-02-16 08:12:13,537 INFO: total number of classes: 2518
+export urn:uuid:f2faa7e6-d459-11e5-acbe-086266a2412a
+2016-02-16 08:12:16,864 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-split-2  SimulationID: urn:uuid:f2faa7e6-d459-11e5-acbe-086266a2412a
+2016-02-16 08:12:30,733 INFO: total number of classes: 1013
+export urn:uuid:c3be9586-d45a-11e5-a3e5-086266a2412a
+2016-02-16 08:12:31,805 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-split-2  SimulationID: urn:uuid:c3be9586-d45a-11e5-a3e5-086266a2412a
+2016-02-16 08:12:45,284 INFO: total number of classes: 7802
+export urn:uuid:a10cbde6-d45b-11e5-8a80-086266a2412a
+2016-02-16 08:13:00,600 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-split-2  SimulationID: urn:uuid:a10cbde6-d45b-11e5-8a80-086266a2412a
+2016-02-16 08:13:15,603 INFO: total number of classes: 2830
+export urn:uuid:77ed514a-d45c-11e5-8312-086266a2412a
+2016-02-16 08:13:19,477 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-split-2  SimulationID: urn:uuid:77ed514a-d45c-11e5-8312-086266a2412a
+2016-02-16 08:13:32,594 INFO: total number of classes: 3134
+export urn:uuid:5222681e-d45d-11e5-a159-086266a2412a
+2016-02-16 08:13:36,867 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-split-2  SimulationID: urn:uuid:5222681e-d45d-11e5-a159-086266a2412a
+2016-02-16 08:13:51,741 INFO: total number of classes: 2376
+export urn:uuid:2fe0a9a4-d45e-11e5-82d4-086266a2412a
+2016-02-16 08:13:54,805 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-split-2  SimulationID: urn:uuid:2fe0a9a4-d45e-11e5-82d4-086266a2412a
+2016-02-16 08:14:08,460 INFO: total number of classes: 3302
+export urn:uuid:0bcd378e-d45f-11e5-8d68-086266a2412a
+2016-02-16 08:14:13,000 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-split-2  SimulationID: urn:uuid:0bcd378e-d45f-11e5-8d68-086266a2412a
+2016-02-16 08:14:28,129 INFO: total number of classes: 2356
+export urn:uuid:ea819538-d45f-11e5-84ef-086266a2412a
+2016-02-16 08:14:31,199 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-split-2  SimulationID: urn:uuid:ea819538-d45f-11e5-84ef-086266a2412a
+2016-02-16 08:14:45,007 INFO: total number of classes: 7979
+export urn:uuid:c8729572-d460-11e5-a891-086266a2412a
+2016-02-16 08:15:00,372 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-split-2  SimulationID: urn:uuid:c8729572-d460-11e5-a891-086266a2412a
+2016-02-16 08:15:14,791 INFO: total number of classes: 2375
+export urn:uuid:a4587a20-d461-11e5-a4ad-086266a2412a
+2016-02-16 08:15:17,918 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-split-2  SimulationID: urn:uuid:a4587a20-d461-11e5-a4ad-086266a2412a
+2016-02-16 08:15:32,745 INFO: total number of classes: 3092
+export urn:uuid:816efbc8-d462-11e5-a43d-086266a2412a
+2016-02-16 08:15:37,020 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-split-2  SimulationID: urn:uuid:816efbc8-d462-11e5-a43d-086266a2412a
+2016-02-16 08:15:52,190 INFO: total number of classes: 2935
+export urn:uuid:5dbbe5dc-d463-11e5-8660-086266a2412a
+2016-02-16 08:15:56,216 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-split-2  SimulationID: urn:uuid:5dbbe5dc-d463-11e5-8660-086266a2412a
+2016-02-16 08:16:10,518 INFO: total number of classes: 2089
+export urn:uuid:3a4c8470-d464-11e5-bdf1-086266a2412a
+2016-02-16 08:16:13,169 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-split-2  SimulationID: urn:uuid:3a4c8470-d464-11e5-bdf1-086266a2412a
+2016-02-16 08:16:28,102 INFO: total number of classes: 2148
+export urn:uuid:1560c968-d465-11e5-a16b-086266a2412a
+2016-02-16 08:16:30,727 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-split-2  SimulationID: urn:uuid:1560c968-d465-11e5-a16b-086266a2412a
+2016-02-16 08:16:45,632 INFO: total number of classes: 6103
+export urn:uuid:f8a6f378-d465-11e5-a9f4-086266a2412a
+2016-02-16 08:16:56,498 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-split-2  SimulationID: urn:uuid:f8a6f378-d465-11e5-a9f4-086266a2412a
+2016-02-16 08:17:12,124 INFO: total number of classes: 6494
+export urn:uuid:d3d9530a-d466-11e5-8997-086266a2412a
+2016-02-16 08:17:24,036 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-split-2  SimulationID: urn:uuid:d3d9530a-d466-11e5-8997-086266a2412a
+2016-02-16 08:17:36,860 INFO: total number of classes: 3027
+export urn:uuid:af925e50-d467-11e5-82bf-086266a2412a
+2016-02-16 08:17:41,004 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-split-2  SimulationID: urn:uuid:af925e50-d467-11e5-82bf-086266a2412a
+2016-02-16 08:17:55,446 INFO: total number of classes: 6806
+export urn:uuid:8bd26cfc-d468-11e5-b338-086266a2412a
+2016-02-16 08:18:07,634 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-split-2  SimulationID: urn:uuid:8bd26cfc-d468-11e5-b338-086266a2412a
+2016-02-16 08:18:22,146 INFO: total number of classes: 3141
+export urn:uuid:667ee088-d469-11e5-8ace-086266a2412a
+2016-02-16 08:18:26,540 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-split-2  SimulationID: urn:uuid:667ee088-d469-11e5-8ace-086266a2412a
+2016-02-16 08:18:42,212 INFO: total number of classes: 6986
+export urn:uuid:455ae4aa-d46a-11e5-a5d6-086266a2412a
+2016-02-16 08:18:55,025 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-split-2  SimulationID: urn:uuid:455ae4aa-d46a-11e5-a5d6-086266a2412a
+2016-02-16 08:19:08,591 INFO: total number of classes: 4694
+export urn:uuid:29bf2f84-d46b-11e5-ae6e-086266a2412a
+2016-02-16 08:19:16,116 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-split-2  SimulationID: urn:uuid:29bf2f84-d46b-11e5-ae6e-086266a2412a
+2016-02-16 08:19:29,282 INFO: total number of classes: 7985
+export urn:uuid:05d5fc46-d46c-11e5-8b52-086266a2412a
+2016-02-16 08:19:44,825 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-split-2  SimulationID: urn:uuid:05d5fc46-d46c-11e5-8b52-086266a2412a
+2016-02-16 08:19:59,980 INFO: total number of classes: 3282
+export urn:uuid:e20804e8-d46c-11e5-b0df-086266a2412a
+2016-02-16 08:20:04,574 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-split-2  SimulationID: urn:uuid:e20804e8-d46c-11e5-b0df-086266a2412a
+2016-02-16 08:20:18,453 INFO: total number of classes: 6840
+export urn:uuid:c5d3e840-d46d-11e5-abc9-086266a2412a
+2016-02-16 08:20:30,759 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-split-2  SimulationID: urn:uuid:c5d3e840-d46d-11e5-abc9-086266a2412a
+2016-02-16 08:20:46,156 INFO: total number of classes: 5435
+export urn:uuid:a2170e36-d46e-11e5-955d-086266a2412a
+2016-02-16 08:20:54,877 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-split-2  SimulationID: urn:uuid:a2170e36-d46e-11e5-955d-086266a2412a
+2016-02-16 08:21:07,684 INFO: total number of classes: 2338
+export urn:uuid:7d6bf082-d46f-11e5-9196-086266a2412a
+2016-02-16 08:21:10,760 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-split-2  SimulationID: urn:uuid:7d6bf082-d46f-11e5-9196-086266a2412a
+2016-02-16 08:21:23,820 INFO: total number of classes: 4155
+export urn:uuid:58d0d5b6-d470-11e5-a442-086266a2412a
+2016-02-16 08:21:29,832 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-split-2  SimulationID: urn:uuid:58d0d5b6-d470-11e5-a442-086266a2412a
+2016-02-16 08:21:43,409 INFO: total number of classes: 7946
+export urn:uuid:36f80814-d471-11e5-bf27-086266a2412a
+2016-02-16 08:21:59,379 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-split-2  SimulationID: urn:uuid:36f80814-d471-11e5-bf27-086266a2412a
+2016-02-16 08:22:13,292 INFO: total number of classes: 8819
+export urn:uuid:1d3087a2-d472-11e5-b13c-086266a2412a
+2016-02-16 08:22:31,691 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-split-2  SimulationID: urn:uuid:1d3087a2-d472-11e5-b13c-086266a2412a
+2016-02-16 08:22:46,421 INFO: total number of classes: 3512
+=================== exporting late split model ==============
+2016-02-16 08:22:51,314 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-split-2
+export urn:uuid:357a70b8-d49d-11e5-9436-086266a2412a
+2016-02-16 08:22:51,577 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-split-2  SimulationID: urn:uuid:357a70b8-d49d-11e5-9436-086266a2412a
+2016-02-16 08:23:07,210 INFO: total number of classes: 6602
+export urn:uuid:0a4e3f72-d49e-11e5-a273-086266a2412a
+2016-02-16 08:23:18,955 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-split-2  SimulationID: urn:uuid:0a4e3f72-d49e-11e5-a273-086266a2412a
+2016-02-16 08:23:34,200 INFO: total number of classes: 2403
+export urn:uuid:de5da9f6-d49e-11e5-aa23-086266a2412a
+2016-02-16 08:23:37,347 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-split-2  SimulationID: urn:uuid:de5da9f6-d49e-11e5-aa23-086266a2412a
+2016-02-16 08:23:50,663 INFO: total number of classes: 4609
+export urn:uuid:b41ac178-d49f-11e5-90ea-086266a2412a
+2016-02-16 08:23:57,841 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-split-2  SimulationID: urn:uuid:b41ac178-d49f-11e5-90ea-086266a2412a
+2016-02-16 08:24:09,979 INFO: total number of classes: 1834
+export urn:uuid:87556732-d4a0-11e5-8fb3-086266a2412a
+2016-02-16 08:24:12,350 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-split-2  SimulationID: urn:uuid:87556732-d4a0-11e5-8fb3-086266a2412a
+2016-02-16 08:24:26,163 INFO: total number of classes: 8679
+export urn:uuid:6feb7108-d4a1-11e5-ab5e-086266a2412a
+2016-02-16 08:24:43,760 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-split-2  SimulationID: urn:uuid:6feb7108-d4a1-11e5-ab5e-086266a2412a
+2016-02-16 08:24:57,550 INFO: total number of classes: 8216
+export urn:uuid:48e36ea2-d4a2-11e5-a511-086266a2412a
+2016-02-16 08:25:13,954 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-split-2  SimulationID: urn:uuid:48e36ea2-d4a2-11e5-a511-086266a2412a
+2016-02-16 08:25:28,556 INFO: total number of classes: 2072
+export urn:uuid:1d814b8e-d4a3-11e5-9589-086266a2412a
+2016-02-16 08:25:31,019 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-split-2  SimulationID: urn:uuid:1d814b8e-d4a3-11e5-9589-086266a2412a
+2016-02-16 08:25:45,972 INFO: total number of classes: 2598
+export urn:uuid:f28cff94-d4a3-11e5-98fb-086266a2412a
+2016-02-16 08:25:49,389 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-split-2  SimulationID: urn:uuid:f28cff94-d4a3-11e5-98fb-086266a2412a
+2016-02-16 08:26:04,086 INFO: total number of classes: 7358
+export urn:uuid:c858a7fe-d4a4-11e5-821f-086266a2412a
+2016-02-16 08:26:18,377 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-split-2  SimulationID: urn:uuid:c858a7fe-d4a4-11e5-821f-086266a2412a
+2016-02-16 08:26:34,277 INFO: total number of classes: 6949
+export urn:uuid:9d42726a-d4a5-11e5-91d0-086266a2412a
+2016-02-16 08:26:47,057 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-split-2  SimulationID: urn:uuid:9d42726a-d4a5-11e5-91d0-086266a2412a
+2016-02-16 08:27:02,439 INFO: total number of classes: 4340
+export urn:uuid:71af6eea-d4a6-11e5-ac9f-086266a2412a
+2016-02-16 08:27:08,814 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-split-2  SimulationID: urn:uuid:71af6eea-d4a6-11e5-ac9f-086266a2412a
+2016-02-16 08:27:22,782 INFO: total number of classes: 6650
+export urn:uuid:467a0752-d4a7-11e5-8bda-086266a2412a
+2016-02-16 08:27:34,669 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-split-2  SimulationID: urn:uuid:467a0752-d4a7-11e5-8bda-086266a2412a
+2016-02-16 08:27:48,322 INFO: total number of classes: 6909
+export urn:uuid:1ad56032-d4a8-11e5-8ed2-086266a2412a
+2016-02-16 08:28:00,726 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-split-2  SimulationID: urn:uuid:1ad56032-d4a8-11e5-8ed2-086266a2412a
+2016-02-16 08:28:14,802 INFO: total number of classes: 7178
+export urn:uuid:f3aa6b6e-d4a8-11e5-8c57-086266a2412a
+2016-02-16 08:28:28,564 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-split-2  SimulationID: urn:uuid:f3aa6b6e-d4a8-11e5-8c57-086266a2412a
+2016-02-16 08:28:43,230 INFO: total number of classes: 6661
+export urn:uuid:c7d92e84-d4a9-11e5-b56b-086266a2412a
+2016-02-16 08:28:55,204 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-split-2  SimulationID: urn:uuid:c7d92e84-d4a9-11e5-b56b-086266a2412a
+2016-02-16 08:29:10,714 INFO: total number of classes: 3058
+export urn:uuid:9cc09ca4-d4aa-11e5-a0f3-086266a2412a
+2016-02-16 08:29:14,953 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-split-2  SimulationID: urn:uuid:9cc09ca4-d4aa-11e5-a0f3-086266a2412a
+2016-02-16 08:29:30,538 INFO: total number of classes: 7556
+export urn:uuid:73ad8bc8-d4ab-11e5-9426-086266a2412a
+2016-02-16 08:29:45,154 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-split-2  SimulationID: urn:uuid:73ad8bc8-d4ab-11e5-9426-086266a2412a
+2016-02-16 08:30:00,221 INFO: total number of classes: 2890
+export urn:uuid:4b0c7ade-d4ac-11e5-9fba-086266a2412a
+2016-02-16 08:30:04,312 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-split-2  SimulationID: urn:uuid:4b0c7ade-d4ac-11e5-9fba-086266a2412a
+2016-02-16 08:30:17,933 INFO: total number of classes: 6619
+export urn:uuid:240b4acc-d4ad-11e5-a881-086266a2412a
+2016-02-16 08:30:29,708 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-split-2  SimulationID: urn:uuid:240b4acc-d4ad-11e5-a881-086266a2412a
+2016-02-16 08:30:44,214 INFO: total number of classes: 8380
+export urn:uuid:f9704f0a-d4ad-11e5-b861-086266a2412a
+2016-02-16 08:31:01,114 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-split-2  SimulationID: urn:uuid:f9704f0a-d4ad-11e5-b861-086266a2412a
+2016-02-16 08:31:15,566 INFO: total number of classes: 5653
+export urn:uuid:cd320a54-d4ae-11e5-862f-086266a2412a
+2016-02-16 08:31:24,989 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-split-2  SimulationID: urn:uuid:cd320a54-d4ae-11e5-862f-086266a2412a
+2016-02-16 08:31:39,512 INFO: total number of classes: 1265
+export urn:uuid:9fac2ae6-d4af-11e5-8ce1-086266a2412a
+2016-02-16 08:31:40,870 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-split-2  SimulationID: urn:uuid:9fac2ae6-d4af-11e5-8ce1-086266a2412a
+2016-02-16 08:31:54,822 INFO: total number of classes: 6959
+export urn:uuid:7746dc9e-d4b0-11e5-9b7a-086266a2412a
+2016-02-16 08:32:07,516 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-split-2  SimulationID: urn:uuid:7746dc9e-d4b0-11e5-9b7a-086266a2412a
+2016-02-16 08:32:21,747 INFO: total number of classes: 4880
+export urn:uuid:4c48547c-d4b1-11e5-860e-086266a2412a
+2016-02-16 08:32:29,657 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-split-2  SimulationID: urn:uuid:4c48547c-d4b1-11e5-860e-086266a2412a
+2016-02-16 08:32:43,772 INFO: total number of classes: 8010
+export urn:uuid:1fb1d9dc-d4b2-11e5-ba3b-086266a2412a
+2016-02-16 08:32:59,398 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-split-2  SimulationID: urn:uuid:1fb1d9dc-d4b2-11e5-ba3b-086266a2412a
+2016-02-16 08:33:12,549 INFO: total number of classes: 2966
+export urn:uuid:f558ee0e-d4b2-11e5-888a-086266a2412a
+2016-02-16 08:33:16,737 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-split-2  SimulationID: urn:uuid:f558ee0e-d4b2-11e5-888a-086266a2412a
+2016-02-16 08:33:30,196 INFO: total number of classes: 6467
+export urn:uuid:cd285496-d4b3-11e5-8e65-086266a2412a
+2016-02-16 08:33:41,650 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-split-2  SimulationID: urn:uuid:cd285496-d4b3-11e5-8e65-086266a2412a
+2016-02-16 08:33:55,348 INFO: total number of classes: 3071
+export urn:uuid:a19bb402-d4b4-11e5-b0b8-086266a2412a
+2016-02-16 08:33:59,517 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-split-2  SimulationID: urn:uuid:a19bb402-d4b4-11e5-b0b8-086266a2412a
+2016-02-16 08:34:12,997 INFO: total number of classes: 7398
+export urn:uuid:76845f02-d4b5-11e5-aec8-086266a2412a
+2016-02-16 08:34:27,272 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-split-2  SimulationID: urn:uuid:76845f02-d4b5-11e5-aec8-086266a2412a
+2016-02-16 08:34:41,277 INFO: total number of classes: 7215
+export urn:uuid:4c8b365c-d4b6-11e5-9b37-086266a2412a
+2016-02-16 08:34:55,301 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-split-2  SimulationID: urn:uuid:4c8b365c-d4b6-11e5-9b37-086266a2412a
+2016-02-16 08:35:10,649 INFO: total number of classes: 4600
+export urn:uuid:230d01ce-d4b7-11e5-86e5-086266a2412a
+2016-02-16 08:35:17,843 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-split-2  SimulationID: urn:uuid:230d01ce-d4b7-11e5-86e5-086266a2412a
+2016-02-16 08:35:31,600 INFO: total number of classes: 6528
+export urn:uuid:f716c43c-d4b7-11e5-b325-086266a2412a
+2016-02-16 08:35:43,477 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-split-2  SimulationID: urn:uuid:f716c43c-d4b7-11e5-b325-086266a2412a
+2016-02-16 08:35:57,194 INFO: total number of classes: 6591
+export urn:uuid:cc22214e-d4b8-11e5-8623-086266a2412a
+2016-02-16 08:36:08,992 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-split-2  SimulationID: urn:uuid:cc22214e-d4b8-11e5-8623-086266a2412a
+2016-02-16 08:36:24,092 INFO: total number of classes: 3706
+export urn:uuid:9f9c83ac-d4b9-11e5-a17e-086266a2412a
+2016-02-16 08:36:29,504 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-split-2  SimulationID: urn:uuid:9f9c83ac-d4b9-11e5-a17e-086266a2412a
+2016-02-16 08:36:43,391 INFO: total number of classes: 7616
+export urn:uuid:750516b2-d4ba-11e5-893c-086266a2412a
+2016-02-16 08:36:58,218 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-split-2  SimulationID: urn:uuid:750516b2-d4ba-11e5-893c-086266a2412a
+2016-02-16 08:37:13,788 INFO: total number of classes: 6883
+export urn:uuid:4af8615c-d4bb-11e5-af1f-086266a2412a
+2016-02-16 08:37:26,428 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-split-2  SimulationID: urn:uuid:4af8615c-d4bb-11e5-af1f-086266a2412a
+2016-02-16 08:37:41,946 INFO: total number of classes: 3999
+export urn:uuid:1e06572a-d4bc-11e5-b735-086266a2412a
+2016-02-16 08:37:47,975 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-split-2  SimulationID: urn:uuid:1e06572a-d4bc-11e5-b735-086266a2412a
+2016-02-16 08:38:03,718 INFO: total number of classes: 5897
+export urn:uuid:f181d4e4-d4bc-11e5-ab8a-086266a2412a
+2016-02-16 08:38:14,094 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-split-2  SimulationID: urn:uuid:f181d4e4-d4bc-11e5-ab8a-086266a2412a
+2016-02-16 08:38:29,158 INFO: total number of classes: 3997
+export urn:uuid:c63f7d12-d4bd-11e5-9462-086266a2412a
+2016-02-16 08:38:35,037 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-split-2  SimulationID: urn:uuid:c63f7d12-d4bd-11e5-9462-086266a2412a
+2016-02-16 08:38:48,441 INFO: total number of classes: 2863
+export urn:uuid:9cf6630c-d4be-11e5-a495-086266a2412a
+2016-02-16 08:38:52,425 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-split-2  SimulationID: urn:uuid:9cf6630c-d4be-11e5-a495-086266a2412a
+2016-02-16 08:39:06,908 INFO: total number of classes: 5148
+export urn:uuid:70a0c116-d4bf-11e5-931c-086266a2412a
+2016-02-16 08:39:15,163 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-split-2  SimulationID: urn:uuid:70a0c116-d4bf-11e5-931c-086266a2412a
+2016-02-16 08:39:30,514 INFO: total number of classes: 2638
+export urn:uuid:442b42ea-d4c0-11e5-a535-086266a2412a
+2016-02-16 08:39:33,984 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-split-2  SimulationID: urn:uuid:442b42ea-d4c0-11e5-a535-086266a2412a
+2016-02-16 08:39:48,202 INFO: total number of classes: 6839
+export urn:uuid:18dfcba0-d4c1-11e5-ae8d-086266a2412a
+2016-02-16 08:40:00,943 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-split-2  SimulationID: urn:uuid:18dfcba0-d4c1-11e5-ae8d-086266a2412a
+2016-02-16 08:40:14,679 INFO: total number of classes: 8466
+export urn:uuid:ed18c868-d4c1-11e5-8e61-086266a2412a
+2016-02-16 08:40:31,846 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-split-2  SimulationID: urn:uuid:ed18c868-d4c1-11e5-8e61-086266a2412a
+2016-02-16 08:40:45,552 INFO: total number of classes: 8167
+export urn:uuid:c1f4c5c8-d4c2-11e5-94fa-086266a2412a
+2016-02-16 08:41:01,929 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-split-2  SimulationID: urn:uuid:c1f4c5c8-d4c2-11e5-94fa-086266a2412a
+2016-02-16 08:41:17,480 INFO: total number of classes: 2980
+export urn:uuid:97cd2dc0-d4c3-11e5-bc55-086266a2412a
+2016-02-16 08:41:21,765 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-split-2  SimulationID: urn:uuid:97cd2dc0-d4c3-11e5-bc55-086266a2412a
+2016-02-16 08:41:37,419 INFO: total number of classes: 5084
+export urn:uuid:6c5a6e9a-d4c4-11e5-b742-086266a2412a
+2016-02-16 08:41:45,718 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-split-2  SimulationID: urn:uuid:6c5a6e9a-d4c4-11e5-b742-086266a2412a
+2016-02-16 08:42:00,831 INFO: total number of classes: 3691
+export urn:uuid:3fd21246-d4c5-11e5-a717-086266a2412a
+2016-02-16 08:42:06,475 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-split-2  SimulationID: urn:uuid:3fd21246-d4c5-11e5-a717-086266a2412a
+2016-02-16 08:42:20,355 INFO: total number of classes: 8763
+export urn:uuid:14192ba2-d4c6-11e5-b413-086266a2412a
+2016-02-16 08:42:38,117 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-split-2  SimulationID: urn:uuid:14192ba2-d4c6-11e5-b413-086266a2412a
+2016-02-16 08:42:51,069 INFO: total number of classes: 1022
+=================== exporting early coalesce model ==============
+2016-02-16 08:42:52,191 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-coalesce-2
+export urn:uuid:54d22a70-d41e-11e5-bcd4-086266a2412a
+2016-02-16 08:42:52,447 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-coalesce-2  SimulationID: urn:uuid:54d22a70-d41e-11e5-bcd4-086266a2412a
+2016-02-16 08:43:08,582 INFO: total number of classes: 4195
+export urn:uuid:2c02773e-d41f-11e5-9e5f-086266a2412a
+2016-02-16 08:43:14,985 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-coalesce-2  SimulationID: urn:uuid:2c02773e-d41f-11e5-9e5f-086266a2412a
+2016-02-16 08:43:28,257 INFO: total number of classes: 4572
+export urn:uuid:032833b6-d420-11e5-9c3f-086266a2412a
+2016-02-16 08:43:35,391 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-coalesce-2  SimulationID: urn:uuid:032833b6-d420-11e5-9c3f-086266a2412a
+2016-02-16 08:43:48,315 INFO: total number of classes: 4392
+export urn:uuid:df25aca4-d420-11e5-a0ba-086266a2412a
+2016-02-16 08:43:55,081 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-coalesce-2  SimulationID: urn:uuid:df25aca4-d420-11e5-a0ba-086266a2412a
+2016-02-16 08:44:07,666 INFO: total number of classes: 1904
+export urn:uuid:bba144cc-d421-11e5-9e2c-086266a2412a
+2016-02-16 08:44:10,202 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-coalesce-2  SimulationID: urn:uuid:bba144cc-d421-11e5-9e2c-086266a2412a
+2016-02-16 08:44:24,024 INFO: total number of classes: 8264
+export urn:uuid:99ab0960-d422-11e5-97ee-086266a2412a
+2016-02-16 08:44:40,701 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-coalesce-2  SimulationID: urn:uuid:99ab0960-d422-11e5-97ee-086266a2412a
+2016-02-16 08:44:54,505 INFO: total number of classes: 5048
+export urn:uuid:75d226da-d423-11e5-bd15-086266a2412a
+2016-02-16 08:45:02,632 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-coalesce-2  SimulationID: urn:uuid:75d226da-d423-11e5-bd15-086266a2412a
+2016-02-16 08:45:17,680 INFO: total number of classes: 5620
+export urn:uuid:54b046ca-d424-11e5-bae5-086266a2412a
+2016-02-16 08:45:26,857 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-coalesce-2  SimulationID: urn:uuid:54b046ca-d424-11e5-bae5-086266a2412a
+2016-02-16 08:45:39,410 INFO: total number of classes: 1781
+export urn:uuid:2fb0b214-d425-11e5-9178-086266a2412a
+2016-02-16 08:45:41,537 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-coalesce-2  SimulationID: urn:uuid:2fb0b214-d425-11e5-9178-086266a2412a
+2016-02-16 08:45:56,298 INFO: total number of classes: 1942
+export urn:uuid:0c8bf478-d426-11e5-8adb-086266a2412a
+2016-02-16 08:45:58,672 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-coalesce-2  SimulationID: urn:uuid:0c8bf478-d426-11e5-8adb-086266a2412a
+2016-02-16 08:46:13,121 INFO: total number of classes: 6755
+export urn:uuid:e853cbac-d426-11e5-b2d3-086266a2412a
+2016-02-16 08:46:25,223 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-coalesce-2  SimulationID: urn:uuid:e853cbac-d426-11e5-b2d3-086266a2412a
+2016-02-16 08:46:38,884 INFO: total number of classes: 3009
+export urn:uuid:c65a0aba-d427-11e5-8c4d-086266a2412a
+2016-02-16 08:46:42,951 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-coalesce-2  SimulationID: urn:uuid:c65a0aba-d427-11e5-8c4d-086266a2412a
+2016-02-16 08:46:56,540 INFO: total number of classes: 2181
+export urn:uuid:a735922a-d428-11e5-9e5d-086266a2412a
+2016-02-16 08:46:59,173 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-coalesce-2  SimulationID: urn:uuid:a735922a-d428-11e5-9e5d-086266a2412a
+2016-02-16 08:47:12,023 INFO: total number of classes: 2106
+export urn:uuid:7e7acae8-d429-11e5-90db-086266a2412a
+2016-02-16 08:47:14,624 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-coalesce-2  SimulationID: urn:uuid:7e7acae8-d429-11e5-90db-086266a2412a
+2016-02-16 08:47:28,077 INFO: total number of classes: 4864
+export urn:uuid:504b2c52-d42a-11e5-9b2d-086266a2412a
+2016-02-16 08:47:35,758 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-coalesce-2  SimulationID: urn:uuid:504b2c52-d42a-11e5-9b2d-086266a2412a
+2016-02-16 08:47:48,945 INFO: total number of classes: 2031
+export urn:uuid:2140b5f2-d42b-11e5-9ca1-086266a2412a
+2016-02-16 08:47:51,484 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-coalesce-2  SimulationID: urn:uuid:2140b5f2-d42b-11e5-9ca1-086266a2412a
+2016-02-16 08:48:04,924 INFO: total number of classes: 4068
+export urn:uuid:f39d6f7c-d42b-11e5-bdbe-086266a2412a
+2016-02-16 08:48:11,087 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-coalesce-2  SimulationID: urn:uuid:f39d6f7c-d42b-11e5-bdbe-086266a2412a
+2016-02-16 08:48:26,050 INFO: total number of classes: 8599
+export urn:uuid:c717558e-d42c-11e5-bf86-086266a2412a
+2016-02-16 08:48:43,016 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-coalesce-2  SimulationID: urn:uuid:c717558e-d42c-11e5-bf86-086266a2412a
+2016-02-16 08:48:55,099 INFO: total number of classes: 1103
+export urn:uuid:98a9ee18-d42d-11e5-bc14-086266a2412a
+2016-02-16 08:48:56,451 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-coalesce-2  SimulationID: urn:uuid:98a9ee18-d42d-11e5-bc14-086266a2412a
+2016-02-16 08:49:09,108 INFO: total number of classes: 1383
+export urn:uuid:6af22a8e-d42e-11e5-a120-086266a2412a
+2016-02-16 08:49:10,741 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-coalesce-2  SimulationID: urn:uuid:6af22a8e-d42e-11e5-a120-086266a2412a
+2016-02-16 08:49:25,526 INFO: total number of classes: 2832
+export urn:uuid:3dffeab0-d42f-11e5-b057-086266a2412a
+2016-02-16 08:49:29,449 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-coalesce-2  SimulationID: urn:uuid:3dffeab0-d42f-11e5-b057-086266a2412a
+2016-02-16 08:49:43,278 INFO: total number of classes: 8353
+export urn:uuid:111f5a66-d430-11e5-9818-086266a2412a
+2016-02-16 08:50:00,133 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-coalesce-2  SimulationID: urn:uuid:111f5a66-d430-11e5-9818-086266a2412a
+2016-02-16 08:50:15,341 INFO: total number of classes: 2777
+export urn:uuid:e2e2e202-d430-11e5-8ef0-086266a2412a
+2016-02-16 08:50:18,886 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-coalesce-2  SimulationID: urn:uuid:e2e2e202-d430-11e5-8ef0-086266a2412a
+2016-02-16 08:50:33,080 INFO: total number of classes: 5844
+export urn:uuid:b78c3850-d431-11e5-949e-086266a2412a
+2016-02-16 08:50:43,264 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-coalesce-2  SimulationID: urn:uuid:b78c3850-d431-11e5-949e-086266a2412a
+2016-02-16 08:50:58,190 INFO: total number of classes: 3481
+export urn:uuid:8903e1d0-d432-11e5-85c4-086266a2412a
+2016-02-16 08:51:02,927 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-coalesce-2  SimulationID: urn:uuid:8903e1d0-d432-11e5-85c4-086266a2412a
+2016-02-16 08:51:18,372 INFO: total number of classes: 2477
+export urn:uuid:5c180a60-d433-11e5-beb5-086266a2412a
+2016-02-16 08:51:21,568 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-coalesce-2  SimulationID: urn:uuid:5c180a60-d433-11e5-beb5-086266a2412a
+2016-02-16 08:51:34,328 INFO: total number of classes: 1450
+export urn:uuid:318e24c2-d434-11e5-bd45-086266a2412a
+2016-02-16 08:51:36,135 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-coalesce-2  SimulationID: urn:uuid:318e24c2-d434-11e5-bd45-086266a2412a
+2016-02-16 08:51:51,055 INFO: total number of classes: 4028
+export urn:uuid:04fe4bf2-d435-11e5-ae87-086266a2412a
+2016-02-16 08:51:56,852 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-coalesce-2  SimulationID: urn:uuid:04fe4bf2-d435-11e5-ae87-086266a2412a
+2016-02-16 08:52:10,359 INFO: total number of classes: 1697
+export urn:uuid:d88d3c94-d435-11e5-a8d2-086266a2412a
+2016-02-16 08:52:12,487 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-coalesce-2  SimulationID: urn:uuid:d88d3c94-d435-11e5-a8d2-086266a2412a
+2016-02-16 08:52:26,915 INFO: total number of classes: 6580
+export urn:uuid:ac5137ec-d436-11e5-a5ee-086266a2412a
+2016-02-16 08:52:38,604 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-coalesce-2  SimulationID: urn:uuid:ac5137ec-d436-11e5-a5ee-086266a2412a
+2016-02-16 08:52:52,354 INFO: total number of classes: 6180
+export urn:uuid:81dae160-d437-11e5-be51-086266a2412a
+2016-02-16 08:53:03,679 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-coalesce-2  SimulationID: urn:uuid:81dae160-d437-11e5-be51-086266a2412a
+2016-02-16 08:53:17,851 INFO: total number of classes: 6879
+export urn:uuid:64f960d4-d438-11e5-8827-086266a2412a
+2016-02-16 08:53:30,487 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-coalesce-2  SimulationID: urn:uuid:64f960d4-d438-11e5-8827-086266a2412a
+2016-02-16 08:53:44,834 INFO: total number of classes: 4406
+export urn:uuid:3c00a1be-d439-11e5-8a85-086266a2412a
+2016-02-16 08:53:51,728 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-coalesce-2  SimulationID: urn:uuid:3c00a1be-d439-11e5-8a85-086266a2412a
+2016-02-16 08:54:05,926 INFO: total number of classes: 6774
+export urn:uuid:109f16d0-d43a-11e5-bea3-086266a2412a
+2016-02-16 08:54:18,210 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-coalesce-2  SimulationID: urn:uuid:109f16d0-d43a-11e5-bea3-086266a2412a
+2016-02-16 08:54:31,135 INFO: total number of classes: 4702
+export urn:uuid:e5ed67ec-d43a-11e5-a876-086266a2412a
+2016-02-16 08:54:38,591 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-coalesce-2  SimulationID: urn:uuid:e5ed67ec-d43a-11e5-a876-086266a2412a
+2016-02-16 08:54:53,859 INFO: total number of classes: 5538
+export urn:uuid:ba79ee9a-d43b-11e5-9f32-086266a2412a
+2016-02-16 08:55:03,310 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-coalesce-2  SimulationID: urn:uuid:ba79ee9a-d43b-11e5-9f32-086266a2412a
+2016-02-16 08:55:17,030 INFO: total number of classes: 7598
+export urn:uuid:8f3d2444-d43c-11e5-8876-086266a2412a
+2016-02-16 08:55:31,719 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-coalesce-2  SimulationID: urn:uuid:8f3d2444-d43c-11e5-8876-086266a2412a
+2016-02-16 08:55:45,216 INFO: total number of classes: 3246
+export urn:uuid:63556d4a-d43d-11e5-9612-086266a2412a
+2016-02-16 08:55:49,578 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-coalesce-2  SimulationID: urn:uuid:63556d4a-d43d-11e5-9612-086266a2412a
+2016-02-16 08:56:02,103 INFO: total number of classes: 2090
+export urn:uuid:39acae94-d43e-11e5-beaa-086266a2412a
+2016-02-16 08:56:04,668 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-coalesce-2  SimulationID: urn:uuid:39acae94-d43e-11e5-beaa-086266a2412a
+2016-02-16 08:56:19,937 INFO: total number of classes: 2469
+export urn:uuid:0f908d14-d43f-11e5-a434-086266a2412a
+2016-02-16 08:56:23,163 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-coalesce-2  SimulationID: urn:uuid:0f908d14-d43f-11e5-a434-086266a2412a
+2016-02-16 08:56:37,977 INFO: total number of classes: 6781
+export urn:uuid:ec5014ea-d43f-11e5-ae5d-086266a2412a
+2016-02-16 08:56:50,238 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-coalesce-2  SimulationID: urn:uuid:ec5014ea-d43f-11e5-ae5d-086266a2412a
+2016-02-16 08:57:04,584 INFO: total number of classes: 4246
+export urn:uuid:c928de06-d440-11e5-ae74-086266a2412a
+2016-02-16 08:57:11,275 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-coalesce-2  SimulationID: urn:uuid:c928de06-d440-11e5-ae74-086266a2412a
+2016-02-16 08:57:26,216 INFO: total number of classes: 4357
+export urn:uuid:a6013e5e-d441-11e5-abf1-086266a2412a
+2016-02-16 08:57:32,758 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-coalesce-2  SimulationID: urn:uuid:a6013e5e-d441-11e5-abf1-086266a2412a
+2016-02-16 08:57:46,936 INFO: total number of classes: 4151
+export urn:uuid:82349f6a-d442-11e5-9ab2-086266a2412a
+2016-02-16 08:57:53,101 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-coalesce-2  SimulationID: urn:uuid:82349f6a-d442-11e5-9ab2-086266a2412a
+2016-02-16 08:58:06,763 INFO: total number of classes: 7966
+export urn:uuid:6cad82dc-d443-11e5-9ebf-086266a2412a
+2016-02-16 08:58:22,874 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-coalesce-2  SimulationID: urn:uuid:6cad82dc-d443-11e5-9ebf-086266a2412a
+2016-02-16 08:58:36,193 INFO: total number of classes: 3831
+export urn:uuid:3e308728-d444-11e5-b649-086266a2412a
+2016-02-16 08:58:41,784 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-coalesce-2  SimulationID: urn:uuid:3e308728-d444-11e5-b649-086266a2412a
+2016-02-16 08:58:55,615 INFO: total number of classes: 8008
+export urn:uuid:152d689a-d445-11e5-aba7-086266a2412a
+2016-02-16 08:59:11,657 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-coalesce-2  SimulationID: urn:uuid:152d689a-d445-11e5-aba7-086266a2412a
+2016-02-16 08:59:25,172 INFO: total number of classes: 8524
+export urn:uuid:e8864aea-d445-11e5-88a6-086266a2412a
+2016-02-16 08:59:42,143 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-coalesce-2  SimulationID: urn:uuid:e8864aea-d445-11e5-88a6-086266a2412a
+2016-02-16 08:59:54,275 INFO: total number of classes: 934
+export urn:uuid:b5f94b58-d446-11e5-8005-086266a2412a
+2016-02-16 08:59:55,252 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-coalesce-2  SimulationID: urn:uuid:b5f94b58-d446-11e5-8005-086266a2412a
+2016-02-16 09:00:08,471 INFO: total number of classes: 7052
+export urn:uuid:891832a6-d447-11e5-9038-086266a2412a
+2016-02-16 09:00:21,613 INFO: EXPORT DATA TO CSV - Experiment: gc-early-lineage-coalesce-2  SimulationID: urn:uuid:891832a6-d447-11e5-9038-086266a2412a
+2016-02-16 09:00:35,935 INFO: total number of classes: 4807
+=================== exporting late coalesce model ==============
+2016-02-16 09:00:43,475 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-coalesce-2
+export urn:uuid:f8884b6e-d472-11e5-a794-086266a2412a
+2016-02-16 09:00:43,726 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-coalesce-2  SimulationID: urn:uuid:f8884b6e-d472-11e5-a794-086266a2412a
+2016-02-16 09:00:58,327 INFO: total number of classes: 3207
+export urn:uuid:d4df92c0-d473-11e5-821b-086266a2412a
+2016-02-16 09:01:02,890 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-coalesce-2  SimulationID: urn:uuid:d4df92c0-d473-11e5-821b-086266a2412a
+2016-02-16 09:01:17,440 INFO: total number of classes: 2045
+export urn:uuid:b1c7c37e-d474-11e5-b0ba-086266a2412a
+2016-02-16 09:01:20,024 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-coalesce-2  SimulationID: urn:uuid:b1c7c37e-d474-11e5-b0ba-086266a2412a
+2016-02-16 09:01:34,546 INFO: total number of classes: 1965
+export urn:uuid:8e2cb022-d475-11e5-89cc-086266a2412a
+2016-02-16 09:01:37,014 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-coalesce-2  SimulationID: urn:uuid:8e2cb022-d475-11e5-89cc-086266a2412a
+2016-02-16 09:01:49,252 INFO: total number of classes: 1805
+export urn:uuid:69994c92-d476-11e5-b963-086266a2412a
+2016-02-16 09:01:51,494 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-coalesce-2  SimulationID: urn:uuid:69994c92-d476-11e5-b963-086266a2412a
+2016-02-16 09:02:04,090 INFO: total number of classes: 2865
+export urn:uuid:3bd382e0-d477-11e5-aea1-086266a2412a
+2016-02-16 09:02:08,141 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-coalesce-2  SimulationID: urn:uuid:3bd382e0-d477-11e5-aea1-086266a2412a
+2016-02-16 09:02:21,810 INFO: total number of classes: 5585
+export urn:uuid:0ddcad8e-d478-11e5-a81e-086266a2412a
+2016-02-16 09:02:31,042 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-coalesce-2  SimulationID: urn:uuid:0ddcad8e-d478-11e5-a81e-086266a2412a
+2016-02-16 09:02:46,617 INFO: total number of classes: 4757
+export urn:uuid:e1ac13b6-d478-11e5-acde-086266a2412a
+2016-02-16 09:02:54,123 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-coalesce-2  SimulationID: urn:uuid:e1ac13b6-d478-11e5-acde-086266a2412a
+2016-02-16 09:03:08,177 INFO: total number of classes: 6235
+export urn:uuid:bc3f57ea-d479-11e5-8680-086266a2412a
+2016-02-16 09:03:19,100 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-coalesce-2  SimulationID: urn:uuid:bc3f57ea-d479-11e5-8680-086266a2412a
+2016-02-16 09:03:32,737 INFO: total number of classes: 4414
+export urn:uuid:8e0e0852-d47a-11e5-baf7-086266a2412a
+2016-02-16 09:03:39,349 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-coalesce-2  SimulationID: urn:uuid:8e0e0852-d47a-11e5-baf7-086266a2412a
+2016-02-16 09:03:52,138 INFO: total number of classes: 1412
+export urn:uuid:5fff28be-d47b-11e5-b8d6-086266a2412a
+2016-02-16 09:03:53,829 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-coalesce-2  SimulationID: urn:uuid:5fff28be-d47b-11e5-b8d6-086266a2412a
+2016-02-16 09:04:06,762 INFO: total number of classes: 5537
+export urn:uuid:323f11ea-d47c-11e5-8c20-086266a2412a
+2016-02-16 09:04:15,802 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-coalesce-2  SimulationID: urn:uuid:323f11ea-d47c-11e5-8c20-086266a2412a
+2016-02-16 09:04:29,877 INFO: total number of classes: 8449
+export urn:uuid:0e3b7616-d47d-11e5-86f1-086266a2412a
+2016-02-16 09:04:47,210 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-coalesce-2  SimulationID: urn:uuid:0e3b7616-d47d-11e5-86f1-086266a2412a
+2016-02-16 09:05:02,253 INFO: total number of classes: 2011
+export urn:uuid:dfb721c2-d47d-11e5-8315-086266a2412a
+2016-02-16 09:05:04,703 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-coalesce-2  SimulationID: urn:uuid:dfb721c2-d47d-11e5-8315-086266a2412a
+2016-02-16 09:05:18,158 INFO: total number of classes: 4844
+export urn:uuid:b0945486-d47e-11e5-8bb2-086266a2412a
+2016-02-16 09:05:25,999 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-coalesce-2  SimulationID: urn:uuid:b0945486-d47e-11e5-8bb2-086266a2412a
+2016-02-16 09:05:41,544 INFO: total number of classes: 2823
+export urn:uuid:81f49db0-d47f-11e5-b7f7-086266a2412a
+2016-02-16 09:05:45,241 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-coalesce-2  SimulationID: urn:uuid:81f49db0-d47f-11e5-b7f7-086266a2412a
+2016-02-16 09:05:58,679 INFO: total number of classes: 6569
+export urn:uuid:54b8b0d8-d480-11e5-95e5-086266a2412a
+2016-02-16 09:06:10,497 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-coalesce-2  SimulationID: urn:uuid:54b8b0d8-d480-11e5-95e5-086266a2412a
+2016-02-16 09:06:24,486 INFO: total number of classes: 8630
+export urn:uuid:2f2f4ab0-d481-11e5-9e27-086266a2412a
+2016-02-16 09:06:42,229 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-coalesce-2  SimulationID: urn:uuid:2f2f4ab0-d481-11e5-9e27-086266a2412a
+2016-02-16 09:06:57,787 INFO: total number of classes: 6012
+export urn:uuid:01523c6e-d482-11e5-9156-086266a2412a
+2016-02-16 09:07:08,522 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-coalesce-2  SimulationID: urn:uuid:01523c6e-d482-11e5-9156-086266a2412a
+2016-02-16 09:07:23,695 INFO: total number of classes: 4318
+export urn:uuid:d307569a-d482-11e5-8c78-086266a2412a
+2016-02-16 09:07:30,148 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-coalesce-2  SimulationID: urn:uuid:d307569a-d482-11e5-8c78-086266a2412a
+2016-02-16 09:07:43,842 INFO: total number of classes: 6199
+export urn:uuid:a5661194-d483-11e5-b7b2-086266a2412a
+2016-02-16 09:07:54,762 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-coalesce-2  SimulationID: urn:uuid:a5661194-d483-11e5-b7b2-086266a2412a
+2016-02-16 09:08:07,424 INFO: total number of classes: 2175
+export urn:uuid:7637aa6c-d484-11e5-803e-086266a2412a
+2016-02-16 09:08:10,110 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-coalesce-2  SimulationID: urn:uuid:7637aa6c-d484-11e5-803e-086266a2412a
+2016-02-16 09:08:24,979 INFO: total number of classes: 2776
+export urn:uuid:47d3a0d0-d485-11e5-9867-086266a2412a
+2016-02-16 09:08:28,606 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-coalesce-2  SimulationID: urn:uuid:47d3a0d0-d485-11e5-9867-086266a2412a
+2016-02-16 09:08:43,732 INFO: total number of classes: 1963
+export urn:uuid:1b4d6978-d486-11e5-817c-086266a2412a
+2016-02-16 09:08:46,201 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-coalesce-2  SimulationID: urn:uuid:1b4d6978-d486-11e5-817c-086266a2412a
+2016-02-16 09:09:01,277 INFO: total number of classes: 7407
+export urn:uuid:f2251612-d486-11e5-98fc-086266a2412a
+2016-02-16 09:09:15,530 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-coalesce-2  SimulationID: urn:uuid:f2251612-d486-11e5-98fc-086266a2412a
+2016-02-16 09:09:31,179 INFO: total number of classes: 4837
+export urn:uuid:c6fbfc8e-d487-11e5-9c24-086266a2412a
+2016-02-16 09:09:38,974 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-coalesce-2  SimulationID: urn:uuid:c6fbfc8e-d487-11e5-9c24-086266a2412a
+2016-02-16 09:09:52,617 INFO: total number of classes: 7067
+export urn:uuid:9ad5fa5a-d488-11e5-8ee6-086266a2412a
+2016-02-16 09:10:05,425 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-coalesce-2  SimulationID: urn:uuid:9ad5fa5a-d488-11e5-8ee6-086266a2412a
+2016-02-16 09:10:20,596 INFO: total number of classes: 6875
+export urn:uuid:6f46eace-d489-11e5-a7a2-086266a2412a
+2016-02-16 09:10:32,920 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-coalesce-2  SimulationID: urn:uuid:6f46eace-d489-11e5-a7a2-086266a2412a
+2016-02-16 09:10:48,110 INFO: total number of classes: 5274
+export urn:uuid:4488f65a-d48a-11e5-9880-086266a2412a
+2016-02-16 09:10:56,486 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-coalesce-2  SimulationID: urn:uuid:4488f65a-d48a-11e5-9880-086266a2412a
+2016-02-16 09:11:11,394 INFO: total number of classes: 3424
+export urn:uuid:1c08ca7e-d48b-11e5-bcb5-086266a2412a
+2016-02-16 09:11:16,015 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-coalesce-2  SimulationID: urn:uuid:1c08ca7e-d48b-11e5-bcb5-086266a2412a
+2016-02-16 09:11:29,577 INFO: total number of classes: 8270
+export urn:uuid:fd193094-d48b-11e5-b9b0-086266a2412a
+2016-02-16 09:11:45,694 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-coalesce-2  SimulationID: urn:uuid:fd193094-d48b-11e5-b9b0-086266a2412a
+2016-02-16 09:12:00,840 INFO: total number of classes: 7657
+export urn:uuid:da59a39e-d48c-11e5-8c2c-086266a2412a
+2016-02-16 09:12:15,707 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-coalesce-2  SimulationID: urn:uuid:da59a39e-d48c-11e5-8c2c-086266a2412a
+2016-02-16 09:12:29,996 INFO: total number of classes: 1247
+export urn:uuid:b86e2006-d48d-11e5-b5b3-086266a2412a
+2016-02-16 09:12:31,457 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-coalesce-2  SimulationID: urn:uuid:b86e2006-d48d-11e5-b5b3-086266a2412a
+2016-02-16 09:12:45,382 INFO: total number of classes: 8624
+export urn:uuid:967310aa-d48e-11e5-b469-086266a2412a
+2016-02-16 09:13:02,739 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-coalesce-2  SimulationID: urn:uuid:967310aa-d48e-11e5-b469-086266a2412a
+2016-02-16 09:13:16,343 INFO: total number of classes: 6257
+export urn:uuid:72e80874-d48f-11e5-911d-086266a2412a
+2016-02-16 09:13:27,302 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-coalesce-2  SimulationID: urn:uuid:72e80874-d48f-11e5-911d-086266a2412a
+2016-02-16 09:13:40,909 INFO: total number of classes: 8105
+export urn:uuid:5088da6e-d490-11e5-84e0-086266a2412a
+2016-02-16 09:13:57,179 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-coalesce-2  SimulationID: urn:uuid:5088da6e-d490-11e5-84e0-086266a2412a
+2016-02-16 09:14:12,874 INFO: total number of classes: 7508
+export urn:uuid:2c710e5c-d491-11e5-8dfa-086266a2412a
+2016-02-16 09:14:27,448 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-coalesce-2  SimulationID: urn:uuid:2c710e5c-d491-11e5-8dfa-086266a2412a
+2016-02-16 09:14:39,972 INFO: total number of classes: 2522
+export urn:uuid:096e1926-d492-11e5-97bc-086266a2412a
+2016-02-16 09:14:43,156 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-coalesce-2  SimulationID: urn:uuid:096e1926-d492-11e5-97bc-086266a2412a
+2016-02-16 09:14:55,759 INFO: total number of classes: 2054
+export urn:uuid:e711acfc-d492-11e5-98b6-086266a2412a
+2016-02-16 09:14:58,292 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-coalesce-2  SimulationID: urn:uuid:e711acfc-d492-11e5-98b6-086266a2412a
+2016-02-16 09:15:13,921 INFO: total number of classes: 2984
+export urn:uuid:c4240158-d493-11e5-8ccc-086266a2412a
+2016-02-16 09:15:18,048 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-coalesce-2  SimulationID: urn:uuid:c4240158-d493-11e5-8ccc-086266a2412a
+2016-02-16 09:15:32,096 INFO: total number of classes: 1997
+export urn:uuid:a2e46d38-d494-11e5-8918-086266a2412a
+2016-02-16 09:15:34,803 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-coalesce-2  SimulationID: urn:uuid:a2e46d38-d494-11e5-8918-086266a2412a
+2016-02-16 09:15:49,923 INFO: total number of classes: 5689
+export urn:uuid:82ff9532-d495-11e5-be52-086266a2412a
+2016-02-16 09:15:59,771 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-coalesce-2  SimulationID: urn:uuid:82ff9532-d495-11e5-be52-086266a2412a
+2016-02-16 09:16:15,222 INFO: total number of classes: 4381
+export urn:uuid:616cf5f8-d496-11e5-a15d-086266a2412a
+2016-02-16 09:16:21,728 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-coalesce-2  SimulationID: urn:uuid:616cf5f8-d496-11e5-a15d-086266a2412a
+2016-02-16 09:16:36,278 INFO: total number of classes: 2298
+export urn:uuid:3d40cd34-d497-11e5-8827-086266a2412a
+2016-02-16 09:16:39,657 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-coalesce-2  SimulationID: urn:uuid:3d40cd34-d497-11e5-8827-086266a2412a
+2016-02-16 09:16:54,354 INFO: total number of classes: 3785
+export urn:uuid:1a28f6fe-d498-11e5-a399-086266a2412a
+2016-02-16 09:16:59,883 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-coalesce-2  SimulationID: urn:uuid:1a28f6fe-d498-11e5-a399-086266a2412a
+2016-02-16 09:17:13,488 INFO: total number of classes: 3695
+export urn:uuid:f78e3108-d498-11e5-8b17-086266a2412a
+2016-02-16 09:17:18,885 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-coalesce-2  SimulationID: urn:uuid:f78e3108-d498-11e5-8b17-086266a2412a
+2016-02-16 09:17:33,169 INFO: total number of classes: 4640
+export urn:uuid:d6d096e4-d499-11e5-b21f-086266a2412a
+2016-02-16 09:17:40,468 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-coalesce-2  SimulationID: urn:uuid:d6d096e4-d499-11e5-b21f-086266a2412a
+2016-02-16 09:17:54,982 INFO: total number of classes: 1453
+export urn:uuid:b0824cac-d49a-11e5-92a2-086266a2412a
+2016-02-16 09:17:56,730 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-coalesce-2  SimulationID: urn:uuid:b0824cac-d49a-11e5-92a2-086266a2412a
+2016-02-16 09:18:10,811 INFO: total number of classes: 3950
+export urn:uuid:88f4cdc6-d49b-11e5-a011-086266a2412a
+2016-02-16 09:18:16,493 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-coalesce-2  SimulationID: urn:uuid:88f4cdc6-d49b-11e5-a011-086266a2412a
+2016-02-16 09:18:31,167 INFO: total number of classes: 6034
+export urn:uuid:60859e5a-d49c-11e5-a301-086266a2412a
+2016-02-16 09:18:41,914 INFO: EXPORT DATA TO CSV - Experiment: gc-late-lineage-coalesce-2  SimulationID: urn:uuid:60859e5a-d49c-11e5-a301-086266a2412a
+2016-02-16 09:18:56,279 INFO: total number of classes: 2954

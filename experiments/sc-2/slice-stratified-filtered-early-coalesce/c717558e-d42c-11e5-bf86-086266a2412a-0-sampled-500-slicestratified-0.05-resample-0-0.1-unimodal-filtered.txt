@@ -1,0 +1,11 @@
+Assemblage_Name	1-2-1	3-4-4	4-0-2	0-3-4	1-2-5389097
+assemblage-477-336	213	0	286	0	1
+assemblage-687-249	328	0	151	0	2
+assemblage-298-582	343	0	155	0	2
+assemblage-663-393	115	0	352	0	4
+assemblage-936-250	10	0	409	74	7
+assemblage-804-979	26	0	463	7	4
+assemblage-239-868	107	115	263	15	0
+assemblage-991-355	206	0	293	0	1
+assemblage-520-527	26	6	427	27	2
+assemblage-760-869	185	150	165	0	0
