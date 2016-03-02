@@ -4,12 +4,12 @@ echo "========================================================="
 echo "  Building approximate nearest neighbor model"
 echo "========================================================="
 
-mkdir -p rawnetworkmodels/REPLACEME-networkmodel
+mkdir -p rawnetworkmodels/sc-4-nn-networkmodel
 mkdir -p networkmodels
 
 seriationct-build-spatial-neighbor-network.py \
-	--outputdirectory rawnetworkmodels/REPLACEME-networkmodel \
-	--experiment REPLACEME \
+	--outputdirectory rawnetworkmodels/sc-4-nn-networkmodel \
+	--experiment sc-4-nn \
 	--slices 10 \
 	--numpopulations 32 \
 	--spatialaspectratio 6.0 \
@@ -19,16 +19,16 @@ seriationct-build-spatial-neighbor-network.py \
 	--exponentialcoefficient 3 \
 	--debug 0
 
-cp bin/build-networkmodel.sh rawnetworkmodels/REPLACEME-networkmodel
+cp bin/build-networkmodel.sh rawnetworkmodels/sc-4-nn-networkmodel
 cd rawnetworkmodels
-zip -r REPLACEME-network.zip REPLACEME-networkmodel/*.gml
-zip -r REPLACEME-full-network.zip REPLACEME-networkmodel
-cp REPLACEME-networkmodel/REPLACEME-XY.txt ../xyfiles
-mv REPLACEME-network.zip ../networkmodels
+zip -r sc-4-nn-network.zip sc-4-nn-networkmodel/*.gml
+zip -r sc-4-nn-full-network.zip sc-4-nn-networkmodel
+cp sc-4-nn-networkmodel/sc-4-nn-XY.txt ../xyfiles
+mv sc-4-nn-network.zip ../networkmodels
 cd ..
 
 seriationct-explain-networkmodel.py \
-	--networkmodel networkmodels/REPLACEME-network.zip
+	--networkmodel networkmodels/sc-4-nn-network.zip
 
 
 

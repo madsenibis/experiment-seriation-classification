@@ -26,7 +26,7 @@ seriationct-sample-assemblages-for-seriation.py --inputdirectory sampled-traits 
  	--numsamples 1 \
  	--samplefraction 0.05 \
  	--debug 1 \
- 	--networkmodel networkmodels/REPLACEME-network.zip
+ 	--networkmodel networkmodels/sc-4-nn-network.zip
 
 ######## Filter slice-stratified assemblages to eliminate types with less than 3 non-zero entries #######
 
@@ -35,7 +35,7 @@ echo "==================== filter sampled assemblages ====================="
 seriationct-filter-type-unimodality.py \
 	--inputdirectory slice-stratified-sampled-data \
 	--outputdirectory slice-stratified-filtered-data \
-	--networkmodel networkmodels/REPLACEME-network.zip \
+	--networkmodel networkmodels/sc-4-nn-network.zip \
 	--debug 0 \
 	--dropthreshold 0.10 \
 	--filtertype onlynonzero \

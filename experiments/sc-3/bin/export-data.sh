@@ -3,6 +3,18 @@
 mkdir -p exported-data-linear
 mkdir -p exported-data-lineage
 
+# Data export from mongodb bogs down on the larger samples unless we provide an 
+# index for queries by simulation ID.  
+cat << EOF > /tmp/mongo-index
+use gc-simple-lineage-split-3_samples_raw;
+db.seriationct_sample_unaveraged.ensureIndex( { simulation_run_id: 1 })
+use gc-simple-linear-sample-3_samples_raw;
+db.seriationct_sample_unaveraged.ensureIndex( { simulation_run_id: 1 })
+EOF
+
+mongo < /tmp/mongo-index
+rm /tmp/mongo-index
+
 
 echo "=================== exporting lineage split model =============="
 

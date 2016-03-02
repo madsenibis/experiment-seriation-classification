@@ -6,7 +6,7 @@
 ## if you're NOT using GridEngine, either remove this argument, or let it default to the number
 ## of cores/hyperthreads, or perhaps cores/hyperthreads-1.  
 
-seriationct-runbuilder.py --experiment REPLACEME \
+seriationct-runbuilder.py --experiment sc-4-nn \
 --expconfig seriationct-priors.json \
 --parallelism 100 \
 --numsims 500 \

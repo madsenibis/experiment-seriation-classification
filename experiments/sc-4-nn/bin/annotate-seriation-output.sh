@@ -7,9 +7,9 @@ cd seriations-slice-stratified-filtered
 for d in `find . -name "*minmax-by-weight*.gml"`; 
 	do ( seriationct-annotate-minmax-graph.py \
 		--inputfile $d \
-		--networkmodel ../networkmodels/REPLACEME-network.zip \
+		--networkmodel ../networkmodels/sc-4-nn-network.zip \
 		--modeltype lineage \
-		--experiment REPLACEME \
+		--experiment sc-4-nn \
 		--addlabel slice-strat-filtered \
 		--debug 1); 
 done
