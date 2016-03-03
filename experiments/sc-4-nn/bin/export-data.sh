@@ -1,6 +1,6 @@
 #!/bin/sh
 
-mkdir -p exported-data-nearestneighbor
+mkdir -p exported-data
 
 cat << EOF > /tmp/mongo-index
 use sc-nearest-neighbor-1_samples_raw;
@@ -17,7 +17,7 @@ for d in `cat nn-simids.txt`;
 do ( 
 	echo "export $d"
 	seriationct-export-single-simulation.py --experiment gc-simple-linear-sample-3 \
-		--outputdirectory exported-data-nearestneighbor \
+		--outputdirectory exported-data \
 		--simid $d 
 ); done
 
