@@ -28,3 +28,23 @@
 <h1 id="sc-3">sc-3</h1>
 <p>seriation classification experiment #1 - extended</p>
 <p>Goal: Run more simulations using the exact configuration of sc-1, to get 500 total simulations from each of the two models</p>
+<h2 id="sc-4-nn">sc-4-nn</h2>
+<p>The goal is to generate seriation samples from an approximate nearest neighbor model, with highly localized connectivity within a region which is 6x longer than wide.</p>
+<h3 id="experiment-details">Experiment Details</h3>
+<ul>
+<li>10 slices</li>
+<li>32 subpopulations per slice</li>
+<li>Edges per subpopulation have mean 1.25 and sd 0.25 in a lognormal distribution</li>
+<li>The regional space is 6x longer than wide</li>
+<li>Edges link vertices chosen randomly but biased by an negative exponential decay kernel with coefficient 3.0</li>
+</ul>
+<h2 id="sc-5-nn">sc-5-nn</h2>
+<p>The goal is to generate seriation samples from an approximate nearest neighbor model, with highly localized connectivity within a region which is square, but otherwise has the same parameters as sc-4-nn.</p>
+<h3 id="experiment-details-1">Experiment Details</h3>
+<ul>
+<li>10 slices</li>
+<li>32 subpopulations per slice</li>
+<li>Edges per subpopulation have mean 1.25 and sd 0.25 in a lognormal distribution</li>
+<li>The regional space is square (aspect ratio 1.0)</li>
+<li>Edges link vertices chosen randomly but biased by an negative exponential decay kernel with coefficient 3.0</li>
+</ul>
